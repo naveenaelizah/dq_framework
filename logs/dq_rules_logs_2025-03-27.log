@@ -1,0 +1,457 @@
+2025-03-27 12:17:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:17:53 - INFO - Validating inputs.
+2025-03-27 12:17:54 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:17:54 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:17:54 - INFO - Validating inputs.
+2025-03-27 12:17:54 - INFO - Input validation completed successfully: Column 'mobile_number' has 7 rows with invalid mobile lengths.
+2025-03-27 12:17:54 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:17:54 - INFO - Validating inputs.
+2025-03-27 12:17:54 - INFO - Input validation completed successfully: Column 'mobile_number' has 2 rows with null or blank values.
+2025-03-27 12:17:54 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:17:54 - INFO - Validating inputs.
+2025-03-27 12:17:54 - INFO - Input validation completed successfully: Column 'customer_age' has 3 rows with null or blank values.
+2025-03-27 12:17:54 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:17:54 - INFO - Validating inputs.
+2025-03-27 12:17:54 - INFO - Input validation completed successfully: Column 'customer_age' has 12 rows with invalid ages.
+2025-03-27 12:17:54 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-03-27 12:18:10 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:18:10 - INFO - Validating inputs.
+2025-03-27 12:18:16 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-03-27 12:18:16 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2025-03-27 12:18:18 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:18:18 - INFO - Validating inputs.
+2025-03-27 12:18:18 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:18:18 - INFO - Writing validation issues in csv file hoonartek_test_data.csv_validation_2025-03-27_12-18-18.csv
+2025-03-27 12:20:29 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:20:29 - INFO - Validating inputs.
+2025-03-27 12:20:29 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:20:29 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:20:29 - INFO - Validating inputs.
+2025-03-27 12:20:29 - INFO - Input validation completed successfully: Column 'mobile_number' has 7 rows with invalid mobile lengths.
+2025-03-27 12:20:29 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:20:29 - INFO - Validating inputs.
+2025-03-27 12:20:29 - INFO - Input validation completed successfully: Column 'mobile_number' has 2 rows with null or blank values.
+2025-03-27 12:20:29 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:20:29 - INFO - Validating inputs.
+2025-03-27 12:20:29 - INFO - Input validation completed successfully: Column 'customer_age' has 3 rows with null or blank values.
+2025-03-27 12:20:29 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:20:29 - INFO - Validating inputs.
+2025-03-27 12:20:29 - INFO - Input validation completed successfully: Column 'customer_age' has 12 rows with invalid ages.
+2025-03-27 12:20:29 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-03-27 12:20:47 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:20:47 - INFO - Validating inputs.
+2025-03-27 12:20:54 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-03-27 12:20:54 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2025-03-27 12:20:56 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:20:56 - INFO - Validating inputs.
+2025-03-27 12:20:56 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:20:56 - INFO - Writing validation issues in csv file hoonartek_test_data.csv_validation_2025-03-27_12-20-56.csv
+2025-03-27 12:23:29 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:23:29 - INFO - Validating inputs.
+2025-03-27 12:23:29 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:23:29 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:23:29 - INFO - Validating inputs.
+2025-03-27 12:23:29 - INFO - Input validation completed successfully: Column 'mobile_number' has 7 rows with invalid mobile lengths.
+2025-03-27 12:23:29 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:23:29 - INFO - Validating inputs.
+2025-03-27 12:23:29 - INFO - Input validation completed successfully: Column 'mobile_number' has 2 rows with null or blank values.
+2025-03-27 12:23:29 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:23:29 - INFO - Validating inputs.
+2025-03-27 12:23:29 - INFO - Input validation completed successfully: Column 'customer_age' has 3 rows with null or blank values.
+2025-03-27 12:23:29 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:23:29 - INFO - Validating inputs.
+2025-03-27 12:23:29 - INFO - Input validation completed successfully: Column 'customer_age' has 12 rows with invalid ages.
+2025-03-27 12:23:29 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-03-27 12:23:44 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:23:44 - INFO - Validating inputs.
+2025-03-27 12:23:51 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-03-27 12:23:51 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2025-03-27 12:23:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:23:53 - INFO - Validating inputs.
+2025-03-27 12:23:53 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:23:53 - INFO - Writing validation issues in csv file hoonartek_test_data.csv_validation_2025-03-27_12-23-53.csv
+2025-03-27 12:25:29 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:25:29 - INFO - Validating inputs.
+2025-03-27 12:25:30 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:25:30 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:25:30 - INFO - Validating inputs.
+2025-03-27 12:25:30 - INFO - Input validation completed successfully: Column 'mobile_number' has 7 rows with invalid mobile lengths.
+2025-03-27 12:25:30 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:25:30 - INFO - Validating inputs.
+2025-03-27 12:25:30 - INFO - Input validation completed successfully: Column 'mobile_number' has 2 rows with null or blank values.
+2025-03-27 12:25:30 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:25:30 - INFO - Validating inputs.
+2025-03-27 12:25:30 - INFO - Input validation completed successfully: Column 'customer_age' has 3 rows with null or blank values.
+2025-03-27 12:25:30 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:25:30 - INFO - Validating inputs.
+2025-03-27 12:25:30 - INFO - Input validation completed successfully: Column 'customer_age' has 12 rows with invalid ages.
+2025-03-27 12:25:30 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-03-27 12:25:45 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:25:45 - INFO - Validating inputs.
+2025-03-27 12:25:52 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-03-27 12:25:52 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2025-03-27 12:25:54 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:25:54 - INFO - Validating inputs.
+2025-03-27 12:25:54 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:25:55 - INFO - Writing validation issues in csv file hoonartek_test_data.csv_validation_2025-03-27_12-25-55.csv
+2025-03-27 12:27:06 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:27:06 - INFO - Validating inputs.
+2025-03-27 12:27:06 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:27:06 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:27:06 - INFO - Validating inputs.
+2025-03-27 12:27:06 - INFO - Input validation completed successfully: Column 'mobile_number' has 7 rows with invalid mobile lengths.
+2025-03-27 12:27:06 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:27:06 - INFO - Validating inputs.
+2025-03-27 12:27:06 - INFO - Input validation completed successfully: Column 'mobile_number' has 2 rows with null or blank values.
+2025-03-27 12:27:06 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:27:06 - INFO - Validating inputs.
+2025-03-27 12:27:06 - INFO - Input validation completed successfully: Column 'customer_age' has 3 rows with null or blank values.
+2025-03-27 12:27:06 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:27:06 - INFO - Validating inputs.
+2025-03-27 12:27:06 - INFO - Input validation completed successfully: Column 'customer_age' has 12 rows with invalid ages.
+2025-03-27 12:27:06 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-03-27 12:27:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:27:21 - INFO - Validating inputs.
+2025-03-27 12:27:27 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-03-27 12:27:27 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2025-03-27 12:27:27 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:27:28 - INFO - Validating inputs.
+2025-03-27 12:27:28 - ERROR - An error occurred during the dq_null_values_check function.
+Traceback (most recent call last):
+  File "C:\Users\ws_htu708\Documents\27_03\dq_solution (2) 1 (1)\dq_solution\modules\validators\dq_null_values_check.py", line 63, in test
+    df.replace(["null", ""], np.nan, inplace=True)
+TypeError: FrameBase.replace() got an unexpected keyword argument 'inplace'
+2025-03-27 12:29:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:29:21 - INFO - Validating inputs.
+2025-03-27 12:29:21 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:29:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:29:21 - INFO - Validating inputs.
+2025-03-27 12:29:21 - INFO - Input validation completed successfully: Column 'mobile_number' has 7 rows with invalid mobile lengths.
+2025-03-27 12:29:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:29:21 - INFO - Validating inputs.
+2025-03-27 12:29:22 - INFO - Input validation completed successfully: Column 'mobile_number' has 2 rows with null or blank values.
+2025-03-27 12:29:22 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:29:22 - INFO - Validating inputs.
+2025-03-27 12:29:22 - INFO - Input validation completed successfully: Column 'customer_age' has 3 rows with null or blank values.
+2025-03-27 12:29:22 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:29:22 - INFO - Validating inputs.
+2025-03-27 12:29:22 - INFO - Input validation completed successfully: Column 'customer_age' has 12 rows with invalid ages.
+2025-03-27 12:29:22 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-03-27 12:29:36 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:29:36 - INFO - Validating inputs.
+2025-03-27 12:29:43 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-03-27 12:29:44 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2025-03-27 12:29:44 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:29:44 - INFO - Validating inputs.
+2025-03-27 12:29:44 - ERROR - An error occurred during the dq_null_values_check function.
+Traceback (most recent call last):
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\dask\_expr.py", line 768, in __getattr__
+    return object.__getattribute__(self, key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Filter' object has no attribute 'empty'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\dask\dataframe\dask_expr\_collection.py", line 630, in __getattr__
+    val = getattr(self.expr, key)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\dask\dataframe\dask_expr\_expr.py", line 152, in __getattr__
+    return super().__getattr__(key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\dask\_expr.py", line 786, in __getattr__
+    raise AttributeError(
+AttributeError: 'Filter' object has no attribute 'empty'
+
+This often means that you are attempting to use an unsupported API function..
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ws_htu708\Documents\27_03\dq_solution (2) 1 (1)\dq_solution\modules\validators\dq_null_values_check.py", line 92, in test
+    if not df_result.empty:
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\dask\dataframe\dask_expr\_collection.py", line 3094, in __getattr__
+    return super().__getattr__(key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\dask\dataframe\dask_expr\_collection.py", line 636, in __getattr__
+    raise err
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\dask\dataframe\dask_expr\_collection.py", line 625, in __getattr__
+    return object.__getattribute__(self, key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\dask\dataframe\dask_expr\_collection.py", line 2701, in empty
+    raise AttributeNotImplementedError(
+dask.dataframe.utils.AttributeNotImplementedError: Checking whether a Dask DataFrame has any rows may be expensive. However, checking the number of columns is fast. Depending on which of these results you need, use either `len(df.index) == 0` or `len(df.columns) == 0`
+2025-03-27 12:30:46 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:30:46 - INFO - Validating inputs.
+2025-03-27 12:30:46 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:30:46 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:30:46 - INFO - Validating inputs.
+2025-03-27 12:30:46 - INFO - Input validation completed successfully: Column 'mobile_number' has 7 rows with invalid mobile lengths.
+2025-03-27 12:30:46 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:30:46 - INFO - Validating inputs.
+2025-03-27 12:30:46 - INFO - Input validation completed successfully: Column 'mobile_number' has 2 rows with null or blank values.
+2025-03-27 12:30:46 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:30:46 - INFO - Validating inputs.
+2025-03-27 12:30:46 - INFO - Input validation completed successfully: Column 'customer_age' has 3 rows with null or blank values.
+2025-03-27 12:30:46 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:30:46 - INFO - Validating inputs.
+2025-03-27 12:30:46 - INFO - Input validation completed successfully: Column 'customer_age' has 12 rows with invalid ages.
+2025-03-27 12:30:46 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-03-27 12:31:02 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:31:02 - INFO - Validating inputs.
+2025-03-27 12:31:10 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-03-27 12:31:10 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2025-03-27 12:31:10 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:31:10 - INFO - Validating inputs.
+2025-03-27 12:31:11 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:32:37 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:32:37 - INFO - Validating inputs.
+2025-03-27 12:32:37 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:32:37 - ERROR - An error occurred during the dq_null_values_check function.
+Traceback (most recent call last):
+  File "C:\Users\ws_htu708\Documents\27_03\dq_solution (2) 1 (1)\dq_solution\modules\validators\dq_null_values_check.py", line 104, in test
+    df_result_computed = df_result.compute()
+                         ^^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\generic.py", line 6299, in __getattr__
+    return object.__getattribute__(self, name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'DataFrame' object has no attribute 'compute'
+2025-03-27 12:33:19 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:33:19 - INFO - Validating inputs.
+2025-03-27 12:33:19 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:33:19 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:33:19 - INFO - Validating inputs.
+2025-03-27 12:33:19 - INFO - Input validation completed successfully: Column 'mobile_number' has 7 rows with invalid mobile lengths.
+2025-03-27 12:33:19 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:33:19 - INFO - Validating inputs.
+2025-03-27 12:33:19 - INFO - Input validation completed successfully: Column 'mobile_number' has 2 rows with null or blank values.
+2025-03-27 12:33:19 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:33:19 - INFO - Validating inputs.
+2025-03-27 12:33:19 - INFO - Input validation completed successfully: Column 'customer_age' has 3 rows with null or blank values.
+2025-03-27 12:33:19 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:33:19 - INFO - Validating inputs.
+2025-03-27 12:33:19 - INFO - Input validation completed successfully: Column 'customer_age' has 12 rows with invalid ages.
+2025-03-27 12:33:19 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-03-27 12:33:34 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:33:34 - INFO - Validating inputs.
+2025-03-27 12:33:40 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-03-27 12:33:40 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2025-03-27 12:33:40 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:33:40 - INFO - Validating inputs.
+2025-03-27 12:33:41 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:33:41 - INFO - Writing validation issues in csv file hoonartek_test_data.csv_validation_2025-03-27_12-33-41.csv
+2025-03-27 12:35:04 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:35:04 - INFO - Validating inputs.
+2025-03-27 12:35:04 - ERROR - An error occurred during the dq_null_values_check function.
+Traceback (most recent call last):
+  File "C:\Users\ws_htu708\Documents\27_03\dq_solution (2) 1 (1)\dq_solution\modules\validators\dq_null_values_check.py", line 70, in test
+    detailed_report_df["ERROR_DESCRIPTION"] = detailed_report_df[self.column_name].apply(
+                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\series.py", line 4924, in apply
+    ).apply()
+      ^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\apply.py", line 1427, in apply
+    return self.apply_standard()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\apply.py", line 1507, in apply_standard
+    mapped = obj._map_values(
+             ^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\base.py", line 921, in _map_values
+    return algorithms.map_array(arr, mapper, na_action=na_action, convert=convert)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\algorithms.py", line 1743, in map_array
+    return lib.map_infer(values, mapper, convert=convert)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "lib.pyx", line 2972, in pandas._libs.lib.map_infer
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\apply.py", line 1496, in curried
+    return func(x, *self.args, **self.kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: dq_null_values_check.test.<locals>.<lambda>() got an unexpected keyword argument 'meta'
+2025-03-27 12:35:26 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:35:26 - INFO - Validating inputs.
+2025-03-27 12:35:26 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:35:26 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:35:26 - INFO - Validating inputs.
+2025-03-27 12:35:26 - INFO - Input validation completed successfully: Column 'mobile_number' has 7 rows with invalid mobile lengths.
+2025-03-27 12:35:26 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:35:26 - INFO - Validating inputs.
+2025-03-27 12:35:26 - INFO - Input validation completed successfully: Column 'mobile_number' has 2 rows with null or blank values.
+2025-03-27 12:35:26 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:35:26 - INFO - Validating inputs.
+2025-03-27 12:35:26 - INFO - Input validation completed successfully: Column 'customer_age' has 3 rows with null or blank values.
+2025-03-27 12:35:26 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:35:26 - INFO - Validating inputs.
+2025-03-27 12:35:26 - INFO - Input validation completed successfully: Column 'customer_age' has 12 rows with invalid ages.
+2025-03-27 12:35:26 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-03-27 12:35:40 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:35:40 - INFO - Validating inputs.
+2025-03-27 12:35:47 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-03-27 12:35:47 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2025-03-27 12:35:47 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:35:47 - INFO - Validating inputs.
+2025-03-27 12:35:47 - ERROR - An error occurred during the dq_null_values_check function.
+Traceback (most recent call last):
+  File "C:\Users\ws_htu708\Documents\27_03\dq_solution (2) 1 (1)\dq_solution\modules\validators\dq_null_values_check.py", line 63, in test
+    df.replace(["null", ""], np.nan, inplace=True)
+TypeError: FrameBase.replace() got an unexpected keyword argument 'inplace'
+2025-03-27 12:37:41 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:37:41 - INFO - Validating inputs.
+2025-03-27 12:37:41 - ERROR - An error occurred during the dq_null_values_check function.
+Traceback (most recent call last):
+  File "C:\Users\ws_htu708\Documents\27_03\dq_solution (2) 1 (1)\dq_solution\modules\validators\dq_null_values_check.py", line 70, in test
+    detailed_report_df["ERROR_DESCRIPTION"] = detailed_report_df[self.column_name].apply(
+                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\series.py", line 4924, in apply
+    ).apply()
+      ^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\apply.py", line 1427, in apply
+    return self.apply_standard()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\apply.py", line 1507, in apply_standard
+    mapped = obj._map_values(
+             ^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\base.py", line 921, in _map_values
+    return algorithms.map_array(arr, mapper, na_action=na_action, convert=convert)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\algorithms.py", line 1743, in map_array
+    return lib.map_infer(values, mapper, convert=convert)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "lib.pyx", line 2972, in pandas._libs.lib.map_infer
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\apply.py", line 1496, in curried
+    return func(x, *self.args, **self.kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: dq_null_values_check.test.<locals>.<lambda>() got an unexpected keyword argument 'meta'
+2025-03-27 12:38:45 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:38:45 - INFO - Validating inputs.
+2025-03-27 12:38:45 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:38:45 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:38:45 - INFO - Validating inputs.
+2025-03-27 12:38:45 - INFO - Input validation completed successfully: Column 'mobile_number' has 7 rows with invalid mobile lengths.
+2025-03-27 12:38:45 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:38:45 - INFO - Validating inputs.
+2025-03-27 12:38:45 - INFO - Input validation completed successfully: Column 'mobile_number' has 2 rows with null or blank values.
+2025-03-27 12:38:45 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:38:45 - INFO - Validating inputs.
+2025-03-27 12:38:45 - INFO - Input validation completed successfully: Column 'customer_age' has 3 rows with null or blank values.
+2025-03-27 12:38:45 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:38:45 - INFO - Validating inputs.
+2025-03-27 12:38:45 - INFO - Input validation completed successfully: Column 'customer_age' has 12 rows with invalid ages.
+2025-03-27 12:38:45 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-03-27 12:39:00 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:39:00 - INFO - Validating inputs.
+2025-03-27 12:39:06 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-03-27 12:39:06 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2025-03-27 12:39:09 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:39:09 - INFO - Validating inputs.
+2025-03-27 12:39:09 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:39:09 - INFO - Writing validation issues in csv file hoonartek_test_data.csv_validation_2025-03-27_12-39-09.csv
+2025-03-27 12:40:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:40:42 - INFO - Validating inputs.
+2025-03-27 12:40:42 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:40:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:40:42 - INFO - Validating inputs.
+2025-03-27 12:40:42 - INFO - Input validation completed successfully: Column 'mobile_number' has 7 rows with invalid mobile lengths.
+2025-03-27 12:40:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:40:42 - INFO - Validating inputs.
+2025-03-27 12:40:42 - INFO - Input validation completed successfully: Column 'mobile_number' has 2 rows with null or blank values.
+2025-03-27 12:40:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:40:42 - INFO - Validating inputs.
+2025-03-27 12:40:42 - INFO - Input validation completed successfully: Column 'customer_age' has 3 rows with null or blank values.
+2025-03-27 12:40:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:40:42 - INFO - Validating inputs.
+2025-03-27 12:40:42 - INFO - Input validation completed successfully: Column 'customer_age' has 12 rows with invalid ages.
+2025-03-27 12:40:42 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-03-27 12:40:44 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:40:44 - INFO - Validating inputs.
+2025-03-27 12:40:50 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-03-27 12:40:50 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2025-03-27 12:40:51 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:40:51 - INFO - Validating inputs.
+2025-03-27 12:40:51 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:40:51 - INFO - Writing validation issues in csv file hoonartek_test_data.csv_validation_2025-03-27_12-40-51.csv
+2025-03-27 12:43:50 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:43:50 - INFO - Validating inputs.
+2025-03-27 12:43:50 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:48:32 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:48:32 - INFO - Validating inputs.
+2025-03-27 12:48:32 - ERROR - An error occurred during the dq_null_values_check function.
+Traceback (most recent call last):
+  File "C:\Users\ws_htu708\Documents\27_03\dq_solution (2) 1 (1)\dq_solution\modules\validators\dq_null_values_check.py", line 63, in test
+    df.replace(["null", ""], np.nan, inplace=True)
+TypeError: FrameBase.replace() got an unexpected keyword argument 'inplace'
+2025-03-27 12:51:54 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:51:54 - INFO - Validating inputs.
+2025-03-27 12:51:54 - ERROR - An error occurred during the dq_null_values_check function.
+Traceback (most recent call last):
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\dask\_expr.py", line 768, in __getattr__
+    return object.__getattribute__(self, key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Filter' object has no attribute 'empty'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\dask\dataframe\dask_expr\_collection.py", line 630, in __getattr__
+    val = getattr(self.expr, key)
+          ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\dask\dataframe\dask_expr\_expr.py", line 152, in __getattr__
+    return super().__getattr__(key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\dask\_expr.py", line 786, in __getattr__
+    raise AttributeError(
+AttributeError: 'Filter' object has no attribute 'empty'
+
+This often means that you are attempting to use an unsupported API function..
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\ws_htu708\Documents\27_03\dq_solution (2) 1 (1)\dq_solution\modules\validators\dq_null_values_check.py", line 91, in test
+    if not df_result.empty:
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\dask\dataframe\dask_expr\_collection.py", line 3094, in __getattr__
+    return super().__getattr__(key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\dask\dataframe\dask_expr\_collection.py", line 636, in __getattr__
+    raise err
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\dask\dataframe\dask_expr\_collection.py", line 625, in __getattr__
+    return object.__getattribute__(self, key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\ws_htu708\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\dask\dataframe\dask_expr\_collection.py", line 2701, in empty
+    raise AttributeNotImplementedError(
+dask.dataframe.utils.AttributeNotImplementedError: Checking whether a Dask DataFrame has any rows may be expensive. However, checking the number of columns is fast. Depending on which of these results you need, use either `len(df.index) == 0` or `len(df.columns) == 0`
+2025-03-27 12:53:59 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:53:59 - INFO - Validating inputs.
+2025-03-27 12:53:59 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:53:59 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:53:59 - INFO - Validating inputs.
+2025-03-27 12:53:59 - ERROR - An error occurred during the dq_mobile_length_check function.
+Traceback (most recent call last):
+  File "C:\Users\ws_htu708\Documents\27_03\dq_solution (2) 1 (1)\dq_solution\modules\validators\dq_mobile_length_check.py", line 68, in test
+    df.replace(["null", ""], np.nan, inplace=True)
+TypeError: FrameBase.replace() got an unexpected keyword argument 'inplace'
+2025-03-27 12:56:10 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:56:10 - INFO - Validating inputs.
+2025-03-27 12:56:10 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:56:10 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:56:10 - INFO - Validating inputs.
+2025-03-27 12:56:10 - INFO - Input validation completed successfully: Column 'mobile_number' has 7 rows with invalid mobile lengths.
+2025-03-27 12:56:10 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-27 12:56:10 - INFO - Validating inputs.
+2025-03-27 12:56:10 - INFO - Input validation completed successfully: Column 'mobile_number' has 2 rows with null or blank values.
+2025-03-27 12:56:10 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:56:10 - INFO - Validating inputs.
+2025-03-27 12:56:10 - INFO - Input validation completed successfully: Column 'customer_age' has 3 rows with null or blank values.
+2025-03-27 12:56:10 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-27 12:56:10 - INFO - Validating inputs.
+2025-03-27 12:56:10 - INFO - Input validation completed successfully: Column 'customer_age' has 12 rows with invalid ages.
+2025-03-27 12:56:10 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-03-27 12:56:12 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:56:12 - INFO - Validating inputs.
+2025-03-27 12:56:18 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-03-27 12:56:18 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2025-03-27 12:56:18 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-27 12:56:18 - INFO - Validating inputs.
+2025-03-27 12:56:18 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-27 12:56:18 - INFO - Writing validation issues in csv file hoonartek_test_data.csv_validation_2025-03-27_12-56-18.csv

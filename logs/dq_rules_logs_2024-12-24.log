@@ -1,0 +1,46 @@
+2024-12-24 11:25:37 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-24 11:25:37 - INFO - Validating inputs.
+2024-12-24 11:25:39 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-24 11:25:39 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-24 11:25:39 - INFO - Validating inputs.
+2024-12-24 11:25:39 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-24 11:25:39 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-24 11:25:39 - INFO - Validating inputs.
+2024-12-24 11:25:39 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-24 11:25:39 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-24 11:25:39 - INFO - Validating inputs.
+2024-12-24 11:25:39 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-24 11:25:39 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-24 11:25:39 - INFO - Validating inputs.
+2024-12-24 11:25:39 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-24 11:25:39 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-24 11:25:39 - INFO - Validating inputs.
+2024-12-24 11:25:39 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-24 11:25:39 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-24 11:25:45 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-24 11:25:45 - INFO - Validating inputs.
+2024-12-24 11:26:11 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-24 11:26:11 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-24 11:26:52 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-24 11:26:52 - INFO - Validating inputs.
+2024-12-24 11:26:53 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-24 11:26:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-24 11:26:53 - INFO - Validating inputs.
+2024-12-24 11:26:53 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-24 11:26:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-24 11:26:53 - INFO - Validating inputs.
+2024-12-24 11:26:53 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-24 11:26:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-24 11:26:53 - INFO - Validating inputs.
+2024-12-24 11:26:53 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-24 11:26:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-24 11:26:53 - INFO - Validating inputs.
+2024-12-24 11:26:53 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-24 11:26:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-24 11:26:53 - INFO - Validating inputs.
+2024-12-24 11:26:53 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-24 11:26:53 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-24 11:26:56 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-24 11:26:56 - INFO - Validating inputs.
+2024-12-24 11:27:14 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-24 11:27:14 - INFO - Writing validation issues in csv file consumer_loan_validation.csv

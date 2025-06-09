@@ -1,0 +1,943 @@
+2024-12-27 13:38:55 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:38:55 - INFO - Validating inputs.
+2024-12-27 13:38:56 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 13:38:56 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:38:56 - INFO - Validating inputs.
+2024-12-27 13:38:56 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 13:38:56 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:38:56 - INFO - Validating inputs.
+2024-12-27 13:38:56 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 13:38:56 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:38:56 - INFO - Validating inputs.
+2024-12-27 13:38:56 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 13:38:56 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:38:56 - INFO - Validating inputs.
+2024-12-27 13:38:56 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:38:56 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:38:56 - INFO - Validating inputs.
+2024-12-27 13:38:56 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:38:56 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 13:38:58 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:38:58 - INFO - Validating inputs.
+2024-12-27 13:39:04 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 13:39:04 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 13:42:14 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:42:14 - INFO - Validating inputs.
+2024-12-27 13:42:15 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 13:42:15 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:42:15 - INFO - Validating inputs.
+2024-12-27 13:42:15 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 13:42:15 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:42:15 - INFO - Validating inputs.
+2024-12-27 13:42:15 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 13:42:15 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:42:15 - INFO - Validating inputs.
+2024-12-27 13:42:15 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 13:42:15 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:42:15 - INFO - Validating inputs.
+2024-12-27 13:42:15 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:42:15 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:42:15 - INFO - Validating inputs.
+2024-12-27 13:42:15 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:42:15 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 13:42:17 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:42:17 - INFO - Validating inputs.
+2024-12-27 13:42:22 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 13:42:23 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 13:43:35 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:43:35 - INFO - Validating inputs.
+2024-12-27 13:43:36 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 13:43:36 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:43:36 - INFO - Validating inputs.
+2024-12-27 13:43:36 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 13:43:36 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:43:36 - INFO - Validating inputs.
+2024-12-27 13:43:36 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 13:43:36 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:43:36 - INFO - Validating inputs.
+2024-12-27 13:43:36 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 13:43:36 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:43:36 - INFO - Validating inputs.
+2024-12-27 13:43:36 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:43:36 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:43:36 - INFO - Validating inputs.
+2024-12-27 13:43:36 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:43:36 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 13:43:37 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:43:37 - INFO - Validating inputs.
+2024-12-27 13:43:43 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 13:43:43 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 13:44:40 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:44:40 - INFO - Validating inputs.
+2024-12-27 13:44:40 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 13:44:40 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:44:40 - INFO - Validating inputs.
+2024-12-27 13:44:40 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 13:44:40 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:44:40 - INFO - Validating inputs.
+2024-12-27 13:44:40 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 13:44:40 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:44:40 - INFO - Validating inputs.
+2024-12-27 13:44:40 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 13:44:40 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:44:40 - INFO - Validating inputs.
+2024-12-27 13:44:40 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:44:40 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:44:40 - INFO - Validating inputs.
+2024-12-27 13:44:40 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:44:40 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 13:44:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:44:42 - INFO - Validating inputs.
+2024-12-27 13:44:48 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 13:44:48 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 13:46:34 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:46:34 - INFO - Validating inputs.
+2024-12-27 13:46:35 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 13:46:35 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:46:35 - INFO - Validating inputs.
+2024-12-27 13:46:35 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 13:46:35 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:46:35 - INFO - Validating inputs.
+2024-12-27 13:46:35 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 13:46:35 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:46:35 - INFO - Validating inputs.
+2024-12-27 13:46:35 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 13:46:35 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:46:35 - INFO - Validating inputs.
+2024-12-27 13:46:35 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:46:35 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:46:35 - INFO - Validating inputs.
+2024-12-27 13:46:35 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:46:35 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 13:46:36 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:46:36 - INFO - Validating inputs.
+2024-12-27 13:46:42 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 13:46:42 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 13:47:16 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:47:16 - INFO - Validating inputs.
+2024-12-27 13:47:16 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 13:47:16 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:47:16 - INFO - Validating inputs.
+2024-12-27 13:47:16 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 13:47:16 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:47:16 - INFO - Validating inputs.
+2024-12-27 13:47:16 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 13:47:16 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:47:16 - INFO - Validating inputs.
+2024-12-27 13:47:16 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 13:47:16 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:47:16 - INFO - Validating inputs.
+2024-12-27 13:47:16 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:47:16 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:47:16 - INFO - Validating inputs.
+2024-12-27 13:47:16 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:47:16 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 13:47:18 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:47:18 - INFO - Validating inputs.
+2024-12-27 13:47:24 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 13:47:24 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 13:49:12 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:49:12 - INFO - Validating inputs.
+2024-12-27 13:49:13 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 13:49:13 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:49:13 - INFO - Validating inputs.
+2024-12-27 13:49:13 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 13:49:13 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:49:13 - INFO - Validating inputs.
+2024-12-27 13:49:13 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 13:49:13 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:49:13 - INFO - Validating inputs.
+2024-12-27 13:49:13 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 13:49:13 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:49:13 - INFO - Validating inputs.
+2024-12-27 13:49:13 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:49:13 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:49:13 - INFO - Validating inputs.
+2024-12-27 13:49:13 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:49:13 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 13:49:14 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:49:14 - INFO - Validating inputs.
+2024-12-27 13:49:20 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 13:49:20 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 13:49:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:49:53 - INFO - Validating inputs.
+2024-12-27 13:49:53 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 13:49:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:49:53 - INFO - Validating inputs.
+2024-12-27 13:49:53 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 13:49:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:49:53 - INFO - Validating inputs.
+2024-12-27 13:49:53 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 13:49:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:49:53 - INFO - Validating inputs.
+2024-12-27 13:49:53 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 13:49:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:49:53 - INFO - Validating inputs.
+2024-12-27 13:49:53 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:49:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:49:53 - INFO - Validating inputs.
+2024-12-27 13:49:53 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:49:53 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 13:49:55 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:49:55 - INFO - Validating inputs.
+2024-12-27 13:50:00 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 13:50:00 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 13:50:16 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:50:16 - INFO - Validating inputs.
+2024-12-27 13:50:16 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 13:50:16 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:50:16 - INFO - Validating inputs.
+2024-12-27 13:50:16 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 13:50:16 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:50:16 - INFO - Validating inputs.
+2024-12-27 13:50:16 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 13:50:16 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:50:16 - INFO - Validating inputs.
+2024-12-27 13:50:16 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 13:50:16 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:50:16 - INFO - Validating inputs.
+2024-12-27 13:50:16 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:50:16 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:50:16 - INFO - Validating inputs.
+2024-12-27 13:50:16 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:50:16 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 13:50:18 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:50:18 - INFO - Validating inputs.
+2024-12-27 13:50:24 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 13:50:24 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 13:59:39 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:59:39 - INFO - Validating inputs.
+2024-12-27 13:59:40 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 13:59:40 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:59:40 - INFO - Validating inputs.
+2024-12-27 13:59:40 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 13:59:40 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 13:59:40 - INFO - Validating inputs.
+2024-12-27 13:59:40 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 13:59:40 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:59:40 - INFO - Validating inputs.
+2024-12-27 13:59:40 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 13:59:40 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:59:40 - INFO - Validating inputs.
+2024-12-27 13:59:40 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:59:40 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 13:59:40 - INFO - Validating inputs.
+2024-12-27 13:59:40 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 13:59:40 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 13:59:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 13:59:42 - INFO - Validating inputs.
+2024-12-27 13:59:48 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 13:59:48 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:04:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:04:42 - INFO - Validating inputs.
+2024-12-27 14:04:42 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:04:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:04:42 - INFO - Validating inputs.
+2024-12-27 14:04:42 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:04:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:04:42 - INFO - Validating inputs.
+2024-12-27 14:04:42 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:04:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:04:42 - INFO - Validating inputs.
+2024-12-27 14:04:42 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:04:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:04:42 - INFO - Validating inputs.
+2024-12-27 14:04:42 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:04:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:04:42 - INFO - Validating inputs.
+2024-12-27 14:04:42 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:04:42 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:04:44 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:04:44 - INFO - Validating inputs.
+2024-12-27 14:04:50 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:04:50 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:05:07 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:05:07 - INFO - Validating inputs.
+2024-12-27 14:05:08 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:05:08 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:05:08 - INFO - Validating inputs.
+2024-12-27 14:05:08 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:05:08 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:05:08 - INFO - Validating inputs.
+2024-12-27 14:05:08 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:05:08 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:05:08 - INFO - Validating inputs.
+2024-12-27 14:05:08 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:05:08 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:05:08 - INFO - Validating inputs.
+2024-12-27 14:05:08 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:05:08 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:05:08 - INFO - Validating inputs.
+2024-12-27 14:05:08 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:05:08 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:05:10 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:05:10 - INFO - Validating inputs.
+2024-12-27 14:05:15 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:05:16 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:11:33 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:11:33 - INFO - Validating inputs.
+2024-12-27 14:11:33 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:11:33 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:11:33 - INFO - Validating inputs.
+2024-12-27 14:11:33 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:11:33 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:11:33 - INFO - Validating inputs.
+2024-12-27 14:11:33 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:11:33 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:11:33 - INFO - Validating inputs.
+2024-12-27 14:11:33 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:11:33 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:11:33 - INFO - Validating inputs.
+2024-12-27 14:11:33 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:11:33 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:11:33 - INFO - Validating inputs.
+2024-12-27 14:11:33 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:11:33 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:11:35 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:11:35 - INFO - Validating inputs.
+2024-12-27 14:11:41 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:11:41 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:13:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:13:21 - INFO - Validating inputs.
+2024-12-27 14:13:21 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:13:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:13:21 - INFO - Validating inputs.
+2024-12-27 14:13:21 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:13:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:13:21 - INFO - Validating inputs.
+2024-12-27 14:13:21 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:13:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:13:21 - INFO - Validating inputs.
+2024-12-27 14:13:21 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:13:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:13:21 - INFO - Validating inputs.
+2024-12-27 14:13:21 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:13:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:13:21 - INFO - Validating inputs.
+2024-12-27 14:13:21 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:13:21 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:13:23 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:13:23 - INFO - Validating inputs.
+2024-12-27 14:13:30 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:13:30 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:16:00 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:16:00 - INFO - Validating inputs.
+2024-12-27 14:16:01 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:16:01 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:16:01 - INFO - Validating inputs.
+2024-12-27 14:16:01 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:16:01 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:16:01 - INFO - Validating inputs.
+2024-12-27 14:16:01 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:16:01 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:16:01 - INFO - Validating inputs.
+2024-12-27 14:16:01 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:16:01 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:16:01 - INFO - Validating inputs.
+2024-12-27 14:16:01 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:16:01 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:16:01 - INFO - Validating inputs.
+2024-12-27 14:16:01 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:16:01 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:16:02 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:16:02 - INFO - Validating inputs.
+2024-12-27 14:16:08 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:16:08 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:19:54 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:19:54 - INFO - Validating inputs.
+2024-12-27 14:19:55 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:19:55 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:19:55 - INFO - Validating inputs.
+2024-12-27 14:19:55 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:19:55 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:19:55 - INFO - Validating inputs.
+2024-12-27 14:19:55 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:19:55 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:19:55 - INFO - Validating inputs.
+2024-12-27 14:19:55 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:19:55 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:19:55 - INFO - Validating inputs.
+2024-12-27 14:19:55 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:19:55 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:19:55 - INFO - Validating inputs.
+2024-12-27 14:19:55 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:19:55 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:19:56 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:19:56 - INFO - Validating inputs.
+2024-12-27 14:20:02 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:20:02 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:21:03 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:21:03 - INFO - Validating inputs.
+2024-12-27 14:21:04 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:21:04 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:21:04 - INFO - Validating inputs.
+2024-12-27 14:21:04 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:21:04 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:21:04 - INFO - Validating inputs.
+2024-12-27 14:21:04 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:21:04 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:21:04 - INFO - Validating inputs.
+2024-12-27 14:21:04 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:21:04 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:21:04 - INFO - Validating inputs.
+2024-12-27 14:21:04 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:21:04 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:21:04 - INFO - Validating inputs.
+2024-12-27 14:21:04 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:21:04 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:21:05 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:21:05 - INFO - Validating inputs.
+2024-12-27 14:21:11 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:21:12 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:22:32 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:22:32 - INFO - Validating inputs.
+2024-12-27 14:22:32 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:22:32 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:22:32 - INFO - Validating inputs.
+2024-12-27 14:22:32 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:22:32 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:22:32 - INFO - Validating inputs.
+2024-12-27 14:22:32 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:22:32 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:22:32 - INFO - Validating inputs.
+2024-12-27 14:22:32 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:22:32 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:22:32 - INFO - Validating inputs.
+2024-12-27 14:22:32 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:22:32 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:22:32 - INFO - Validating inputs.
+2024-12-27 14:22:32 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:22:32 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:22:34 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:22:34 - INFO - Validating inputs.
+2024-12-27 14:22:40 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:22:40 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:24:33 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:24:33 - INFO - Validating inputs.
+2024-12-27 14:24:34 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:24:34 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:24:34 - INFO - Validating inputs.
+2024-12-27 14:24:34 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:24:34 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:24:34 - INFO - Validating inputs.
+2024-12-27 14:24:34 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:24:34 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:24:34 - INFO - Validating inputs.
+2024-12-27 14:24:34 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:24:34 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:24:34 - INFO - Validating inputs.
+2024-12-27 14:24:34 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:24:34 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:24:34 - INFO - Validating inputs.
+2024-12-27 14:24:34 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:24:34 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:24:35 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:24:35 - INFO - Validating inputs.
+2024-12-27 14:24:42 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:24:42 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:25:18 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:25:18 - INFO - Validating inputs.
+2024-12-27 14:25:19 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:25:19 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:25:19 - INFO - Validating inputs.
+2024-12-27 14:25:19 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:25:19 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:25:19 - INFO - Validating inputs.
+2024-12-27 14:25:19 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:25:19 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:25:19 - INFO - Validating inputs.
+2024-12-27 14:25:19 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:25:19 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:25:19 - INFO - Validating inputs.
+2024-12-27 14:25:19 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:25:19 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:25:19 - INFO - Validating inputs.
+2024-12-27 14:25:19 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:25:19 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:25:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:25:21 - INFO - Validating inputs.
+2024-12-27 14:25:26 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:25:27 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:25:34 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:25:34 - INFO - Validating inputs.
+2024-12-27 14:25:34 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:25:34 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:25:34 - INFO - Validating inputs.
+2024-12-27 14:25:34 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:25:34 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:25:34 - INFO - Validating inputs.
+2024-12-27 14:25:34 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:25:34 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:25:34 - INFO - Validating inputs.
+2024-12-27 14:25:34 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:25:34 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:25:34 - INFO - Validating inputs.
+2024-12-27 14:25:34 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:25:34 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:25:34 - INFO - Validating inputs.
+2024-12-27 14:25:34 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:25:34 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:25:36 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:25:36 - INFO - Validating inputs.
+2024-12-27 14:25:41 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:25:42 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:26:26 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:26:26 - INFO - Validating inputs.
+2024-12-27 14:26:27 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:26:27 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:26:27 - INFO - Validating inputs.
+2024-12-27 14:26:27 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:26:27 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:26:27 - INFO - Validating inputs.
+2024-12-27 14:26:27 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:26:27 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:26:27 - INFO - Validating inputs.
+2024-12-27 14:26:27 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:26:27 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:26:27 - INFO - Validating inputs.
+2024-12-27 14:26:27 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:26:27 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:26:27 - INFO - Validating inputs.
+2024-12-27 14:26:27 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:26:27 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:26:28 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:26:28 - INFO - Validating inputs.
+2024-12-27 14:26:34 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:26:34 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:29:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:29:53 - INFO - Validating inputs.
+2024-12-27 14:29:54 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:29:54 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:29:54 - INFO - Validating inputs.
+2024-12-27 14:29:54 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:29:54 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:29:54 - INFO - Validating inputs.
+2024-12-27 14:29:54 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:29:54 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:29:54 - INFO - Validating inputs.
+2024-12-27 14:29:54 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:29:54 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:29:54 - INFO - Validating inputs.
+2024-12-27 14:29:54 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:29:54 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:29:54 - INFO - Validating inputs.
+2024-12-27 14:29:54 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:29:54 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:29:55 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:29:55 - INFO - Validating inputs.
+2024-12-27 14:30:01 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:30:01 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:30:29 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:30:29 - INFO - Validating inputs.
+2024-12-27 14:30:30 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:30:30 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:30:30 - INFO - Validating inputs.
+2024-12-27 14:30:30 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:30:30 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:30:30 - INFO - Validating inputs.
+2024-12-27 14:30:30 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:30:30 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:30:30 - INFO - Validating inputs.
+2024-12-27 14:30:30 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:30:30 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:30:30 - INFO - Validating inputs.
+2024-12-27 14:30:30 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:30:30 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:30:30 - INFO - Validating inputs.
+2024-12-27 14:30:30 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:30:30 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:30:31 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:30:31 - INFO - Validating inputs.
+2024-12-27 14:30:37 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:30:37 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:31:49 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:31:49 - INFO - Validating inputs.
+2024-12-27 14:31:49 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:31:49 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:31:49 - INFO - Validating inputs.
+2024-12-27 14:31:49 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:31:49 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:31:49 - INFO - Validating inputs.
+2024-12-27 14:31:49 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:31:49 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:31:49 - INFO - Validating inputs.
+2024-12-27 14:31:49 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:31:49 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:31:49 - INFO - Validating inputs.
+2024-12-27 14:31:49 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:31:49 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:31:49 - INFO - Validating inputs.
+2024-12-27 14:31:49 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:31:49 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:31:51 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:31:51 - INFO - Validating inputs.
+2024-12-27 14:31:57 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:31:57 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:32:04 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:32:04 - INFO - Validating inputs.
+2024-12-27 14:32:05 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:32:05 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:32:05 - INFO - Validating inputs.
+2024-12-27 14:32:05 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:32:05 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:32:05 - INFO - Validating inputs.
+2024-12-27 14:32:05 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:32:05 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:32:05 - INFO - Validating inputs.
+2024-12-27 14:32:05 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:32:05 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:32:05 - INFO - Validating inputs.
+2024-12-27 14:32:05 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:32:05 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:32:05 - INFO - Validating inputs.
+2024-12-27 14:32:05 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:32:05 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:32:06 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:32:06 - INFO - Validating inputs.
+2024-12-27 14:32:12 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:32:12 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:33:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:33:53 - INFO - Validating inputs.
+2024-12-27 14:33:53 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:33:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:33:53 - INFO - Validating inputs.
+2024-12-27 14:33:53 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:33:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:33:53 - INFO - Validating inputs.
+2024-12-27 14:33:53 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:33:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:33:53 - INFO - Validating inputs.
+2024-12-27 14:33:53 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:33:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:33:53 - INFO - Validating inputs.
+2024-12-27 14:33:53 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:33:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:33:53 - INFO - Validating inputs.
+2024-12-27 14:33:53 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:33:53 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:33:55 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:33:55 - INFO - Validating inputs.
+2024-12-27 14:34:00 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:34:00 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:35:24 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:35:24 - INFO - Validating inputs.
+2024-12-27 14:35:25 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:35:25 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:35:25 - INFO - Validating inputs.
+2024-12-27 14:35:25 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:35:25 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:35:25 - INFO - Validating inputs.
+2024-12-27 14:35:25 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:35:25 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:35:25 - INFO - Validating inputs.
+2024-12-27 14:35:25 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:35:25 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:35:25 - INFO - Validating inputs.
+2024-12-27 14:35:25 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:35:25 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:35:25 - INFO - Validating inputs.
+2024-12-27 14:35:25 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:35:25 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:35:27 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:35:27 - INFO - Validating inputs.
+2024-12-27 14:35:32 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:35:32 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:37:20 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:37:20 - INFO - Validating inputs.
+2024-12-27 14:37:21 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:37:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:37:21 - INFO - Validating inputs.
+2024-12-27 14:37:21 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:37:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:37:21 - INFO - Validating inputs.
+2024-12-27 14:37:21 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:37:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:37:21 - INFO - Validating inputs.
+2024-12-27 14:37:21 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:37:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:37:21 - INFO - Validating inputs.
+2024-12-27 14:37:21 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:37:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:37:21 - INFO - Validating inputs.
+2024-12-27 14:37:21 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:37:21 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:37:22 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:37:22 - INFO - Validating inputs.
+2024-12-27 14:37:28 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:37:28 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:39:38 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:39:38 - INFO - Validating inputs.
+2024-12-27 14:39:39 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:39:39 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:39:39 - INFO - Validating inputs.
+2024-12-27 14:39:39 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:39:39 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:39:39 - INFO - Validating inputs.
+2024-12-27 14:39:39 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:39:39 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:39:39 - INFO - Validating inputs.
+2024-12-27 14:39:39 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:39:39 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:39:39 - INFO - Validating inputs.
+2024-12-27 14:39:39 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:39:39 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:39:39 - INFO - Validating inputs.
+2024-12-27 14:39:39 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:39:39 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:39:40 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:39:40 - INFO - Validating inputs.
+2024-12-27 14:39:46 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:39:46 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:42:05 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:42:05 - INFO - Validating inputs.
+2024-12-27 14:42:06 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:42:06 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:42:06 - INFO - Validating inputs.
+2024-12-27 14:42:06 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:42:06 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:42:06 - INFO - Validating inputs.
+2024-12-27 14:42:06 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:42:06 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:42:06 - INFO - Validating inputs.
+2024-12-27 14:42:06 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:42:06 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:42:06 - INFO - Validating inputs.
+2024-12-27 14:42:06 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:42:06 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:42:06 - INFO - Validating inputs.
+2024-12-27 14:42:06 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:42:06 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:42:07 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:42:07 - INFO - Validating inputs.
+2024-12-27 14:42:13 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:42:13 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:43:59 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:43:59 - INFO - Validating inputs.
+2024-12-27 14:44:00 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:44:00 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:44:00 - INFO - Validating inputs.
+2024-12-27 14:44:00 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:44:00 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:44:00 - INFO - Validating inputs.
+2024-12-27 14:44:00 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:44:00 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:44:00 - INFO - Validating inputs.
+2024-12-27 14:44:00 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:44:00 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:44:00 - INFO - Validating inputs.
+2024-12-27 14:44:00 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:44:00 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:44:00 - INFO - Validating inputs.
+2024-12-27 14:44:00 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:44:00 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:44:01 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:44:01 - INFO - Validating inputs.
+2024-12-27 14:44:07 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:44:07 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:44:20 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:44:20 - INFO - Validating inputs.
+2024-12-27 14:44:20 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:44:20 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:44:20 - INFO - Validating inputs.
+2024-12-27 14:44:20 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:44:20 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:44:20 - INFO - Validating inputs.
+2024-12-27 14:44:20 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:44:20 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:44:20 - INFO - Validating inputs.
+2024-12-27 14:44:20 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:44:20 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:44:20 - INFO - Validating inputs.
+2024-12-27 14:44:20 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:44:20 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:44:20 - INFO - Validating inputs.
+2024-12-27 14:44:20 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:44:20 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:44:22 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:44:22 - INFO - Validating inputs.
+2024-12-27 14:44:28 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:44:28 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:44:48 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:44:48 - INFO - Validating inputs.
+2024-12-27 14:44:48 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:44:48 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:44:48 - INFO - Validating inputs.
+2024-12-27 14:44:48 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:44:48 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:44:48 - INFO - Validating inputs.
+2024-12-27 14:44:48 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:44:48 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:44:48 - INFO - Validating inputs.
+2024-12-27 14:44:48 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:44:48 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:44:48 - INFO - Validating inputs.
+2024-12-27 14:44:48 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:44:48 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:44:48 - INFO - Validating inputs.
+2024-12-27 14:44:48 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:44:48 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:44:50 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:44:50 - INFO - Validating inputs.
+2024-12-27 14:44:56 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:44:56 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:46:05 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:46:05 - INFO - Validating inputs.
+2024-12-27 14:46:06 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:46:06 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:46:06 - INFO - Validating inputs.
+2024-12-27 14:46:06 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:46:06 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:46:06 - INFO - Validating inputs.
+2024-12-27 14:46:06 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:46:06 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:46:06 - INFO - Validating inputs.
+2024-12-27 14:46:06 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:46:06 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:46:06 - INFO - Validating inputs.
+2024-12-27 14:46:06 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:46:06 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:46:06 - INFO - Validating inputs.
+2024-12-27 14:46:06 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:46:06 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:46:07 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:46:07 - INFO - Validating inputs.
+2024-12-27 14:46:13 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:46:13 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:50:17 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:50:17 - INFO - Validating inputs.
+2024-12-27 14:50:18 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:50:18 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:50:18 - INFO - Validating inputs.
+2024-12-27 14:50:18 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:50:18 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:50:18 - INFO - Validating inputs.
+2024-12-27 14:50:18 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:50:18 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:50:18 - INFO - Validating inputs.
+2024-12-27 14:50:18 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:50:18 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:50:18 - INFO - Validating inputs.
+2024-12-27 14:50:18 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:50:18 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:50:18 - INFO - Validating inputs.
+2024-12-27 14:50:18 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:50:18 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:50:20 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:50:20 - INFO - Validating inputs.
+2024-12-27 14:50:36 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:50:36 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:50:41 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:50:41 - INFO - Validating inputs.
+2024-12-27 14:50:42 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:50:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:50:42 - INFO - Validating inputs.
+2024-12-27 14:50:42 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:50:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:50:42 - INFO - Validating inputs.
+2024-12-27 14:50:42 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:50:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:50:42 - INFO - Validating inputs.
+2024-12-27 14:50:42 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:50:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:50:42 - INFO - Validating inputs.
+2024-12-27 14:50:42 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:50:42 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:50:42 - INFO - Validating inputs.
+2024-12-27 14:50:42 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:50:42 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:50:44 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:50:44 - INFO - Validating inputs.
+2024-12-27 14:51:01 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:51:01 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:52:37 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:52:37 - INFO - Validating inputs.
+2024-12-27 14:52:37 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:52:37 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:52:37 - INFO - Validating inputs.
+2024-12-27 14:52:37 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:52:37 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:52:37 - INFO - Validating inputs.
+2024-12-27 14:52:37 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:52:37 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:52:37 - INFO - Validating inputs.
+2024-12-27 14:52:37 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:52:37 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:52:37 - INFO - Validating inputs.
+2024-12-27 14:52:37 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:52:37 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:52:37 - INFO - Validating inputs.
+2024-12-27 14:52:37 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:52:37 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:52:39 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:52:39 - INFO - Validating inputs.
+2024-12-27 14:52:55 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:52:55 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:53:04 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:53:04 - INFO - Validating inputs.
+2024-12-27 14:53:05 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:53:05 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:53:05 - INFO - Validating inputs.
+2024-12-27 14:53:05 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:53:05 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:53:05 - INFO - Validating inputs.
+2024-12-27 14:53:05 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:53:05 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:53:05 - INFO - Validating inputs.
+2024-12-27 14:53:05 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:53:05 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:53:05 - INFO - Validating inputs.
+2024-12-27 14:53:05 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:53:05 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:53:05 - INFO - Validating inputs.
+2024-12-27 14:53:05 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:53:05 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:53:07 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:53:07 - INFO - Validating inputs.
+2024-12-27 14:53:22 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:53:22 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:53:31 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:53:31 - INFO - Validating inputs.
+2024-12-27 14:53:32 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:53:32 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:53:32 - INFO - Validating inputs.
+2024-12-27 14:53:32 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:53:32 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:53:32 - INFO - Validating inputs.
+2024-12-27 14:53:32 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:53:32 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:53:32 - INFO - Validating inputs.
+2024-12-27 14:53:32 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:53:32 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:53:32 - INFO - Validating inputs.
+2024-12-27 14:53:32 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:53:32 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:53:32 - INFO - Validating inputs.
+2024-12-27 14:53:32 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:53:32 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:53:34 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:53:34 - INFO - Validating inputs.
+2024-12-27 14:53:48 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:53:49 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2024-12-27 14:55:51 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:55:51 - INFO - Validating inputs.
+2024-12-27 14:55:51 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2024-12-27 14:55:51 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:55:51 - INFO - Validating inputs.
+2024-12-27 14:55:51 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2024-12-27 14:55:51 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2024-12-27 14:55:51 - INFO - Validating inputs.
+2024-12-27 14:55:51 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2024-12-27 14:55:51 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:55:51 - INFO - Validating inputs.
+2024-12-27 14:55:51 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2024-12-27 14:55:51 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:55:51 - INFO - Validating inputs.
+2024-12-27 14:55:51 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:55:51 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2024-12-27 14:55:51 - INFO - Validating inputs.
+2024-12-27 14:55:51 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2024-12-27 14:55:51 - INFO - Writing validation issues in csv file customers_validation.csv
+2024-12-27 14:55:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2024-12-27 14:55:53 - INFO - Validating inputs.
+2024-12-27 14:56:08 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2024-12-27 14:56:08 - INFO - Writing validation issues in csv file consumer_loan_validation.csv

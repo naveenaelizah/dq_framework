@@ -1,0 +1,160 @@
+2025-01-08 12:49:59 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-01-08 12:49:59 - INFO - Validating inputs.
+2025-01-08 12:49:59 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2025-01-08 12:49:59 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-01-08 12:49:59 - INFO - Validating inputs.
+2025-01-08 12:49:59 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2025-01-08 12:49:59 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-01-08 12:49:59 - INFO - Validating inputs.
+2025-01-08 12:49:59 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2025-01-08 12:49:59 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 12:49:59 - INFO - Validating inputs.
+2025-01-08 12:49:59 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2025-01-08 12:49:59 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 12:49:59 - INFO - Validating inputs.
+2025-01-08 12:49:59 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2025-01-08 12:49:59 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 12:49:59 - INFO - Validating inputs.
+2025-01-08 12:49:59 - INFO - Input validation completed successfully: Column 'customer_age' has 2 rows with invalid ages.
+2025-01-08 12:49:59 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-01-08 12:54:10 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-01-08 12:54:10 - INFO - Validating inputs.
+2025-01-08 12:54:10 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2025-01-08 12:54:10 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-01-08 12:54:10 - INFO - Validating inputs.
+2025-01-08 12:54:10 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2025-01-08 12:54:10 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-01-08 12:54:10 - INFO - Validating inputs.
+2025-01-08 12:54:10 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2025-01-08 12:54:10 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 12:54:10 - INFO - Validating inputs.
+2025-01-08 12:54:10 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2025-01-08 12:54:10 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 12:54:10 - INFO - Validating inputs.
+2025-01-08 12:54:10 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2025-01-08 12:54:10 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 12:54:10 - INFO - Validating inputs.
+2025-01-08 12:54:10 - INFO - Input validation completed successfully: Column 'customer_age' has 2 rows with invalid ages.
+2025-01-08 12:54:10 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-01-08 12:55:37 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-01-08 12:55:37 - INFO - Validating inputs.
+2025-01-08 12:55:37 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2025-01-08 12:55:37 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-01-08 12:55:37 - INFO - Validating inputs.
+2025-01-08 12:55:37 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2025-01-08 12:55:37 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-01-08 12:55:37 - INFO - Validating inputs.
+2025-01-08 12:55:37 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2025-01-08 12:55:37 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 12:55:37 - INFO - Validating inputs.
+2025-01-08 12:55:37 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2025-01-08 12:55:37 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 12:55:37 - INFO - Validating inputs.
+2025-01-08 12:55:37 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2025-01-08 12:55:37 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 12:55:37 - INFO - Validating inputs.
+2025-01-08 12:55:37 - INFO - Input validation completed successfully: Column 'customer_age' has 2 rows with invalid ages.
+2025-01-08 12:55:37 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-01-08 12:56:21 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-01-08 12:56:21 - INFO - Validating inputs.
+2025-01-08 12:56:22 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2025-01-08 12:56:22 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-01-08 12:56:22 - INFO - Validating inputs.
+2025-01-08 12:56:22 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2025-01-08 12:56:22 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-01-08 12:56:22 - INFO - Validating inputs.
+2025-01-08 12:56:22 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2025-01-08 12:56:22 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 12:56:22 - INFO - Validating inputs.
+2025-01-08 12:56:22 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2025-01-08 12:56:22 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 12:56:22 - INFO - Validating inputs.
+2025-01-08 12:56:22 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2025-01-08 12:56:22 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 12:56:22 - INFO - Validating inputs.
+2025-01-08 12:56:22 - INFO - Input validation completed successfully: Column 'customer_age' has 2 rows with invalid ages.
+2025-01-08 12:56:22 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-01-08 12:56:22 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-01-08 12:56:22 - INFO - Validating inputs.
+2025-01-08 12:56:22 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-01-08 12:56:22 - INFO - Writing validation issues in csv file hoonartek_test_data.csv_validation.csv
+2025-01-08 13:01:51 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-01-08 13:01:51 - INFO - Validating inputs.
+2025-01-08 13:01:51 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2025-01-08 13:01:51 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-01-08 13:01:51 - INFO - Validating inputs.
+2025-01-08 13:01:51 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2025-01-08 13:01:51 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-01-08 13:01:51 - INFO - Validating inputs.
+2025-01-08 13:01:51 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2025-01-08 13:01:51 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 13:01:51 - INFO - Validating inputs.
+2025-01-08 13:01:51 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2025-01-08 13:01:51 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 13:01:51 - INFO - Validating inputs.
+2025-01-08 13:01:51 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2025-01-08 13:01:51 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 13:01:51 - INFO - Validating inputs.
+2025-01-08 13:01:51 - INFO - Input validation completed successfully: Column 'customer_age' has 2 rows with invalid ages.
+2025-01-08 13:01:51 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-01-08 13:01:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-01-08 13:01:53 - INFO - Validating inputs.
+2025-01-08 13:02:00 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2025-01-08 13:02:00 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2025-01-08 13:02:01 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-01-08 13:02:01 - INFO - Validating inputs.
+2025-01-08 13:02:01 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-01-08 13:02:49 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-01-08 13:02:49 - INFO - Validating inputs.
+2025-01-08 13:02:49 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2025-01-08 13:02:49 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-01-08 13:02:49 - INFO - Validating inputs.
+2025-01-08 13:02:49 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2025-01-08 13:02:49 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-01-08 13:02:49 - INFO - Validating inputs.
+2025-01-08 13:02:49 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2025-01-08 13:02:49 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 13:02:49 - INFO - Validating inputs.
+2025-01-08 13:02:49 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2025-01-08 13:02:49 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 13:02:49 - INFO - Validating inputs.
+2025-01-08 13:02:49 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2025-01-08 13:02:49 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 13:02:49 - INFO - Validating inputs.
+2025-01-08 13:02:49 - INFO - Input validation completed successfully: Column 'customer_age' has 2 rows with invalid ages.
+2025-01-08 13:02:49 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-01-08 13:02:51 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-01-08 13:02:51 - INFO - Validating inputs.
+2025-01-08 13:02:58 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2025-01-08 13:02:58 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2025-01-08 13:02:58 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-01-08 13:02:58 - INFO - Validating inputs.
+2025-01-08 13:02:58 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-01-08 13:02:58 - INFO - Writing validation issues in csv file hoonartek_test_data.csv_validation_2025-01-08_13-02-58.csv
+2025-01-08 13:03:40 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-01-08 13:03:40 - INFO - Validating inputs.
+2025-01-08 13:03:41 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2025-01-08 13:03:41 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-01-08 13:03:41 - INFO - Validating inputs.
+2025-01-08 13:03:41 - INFO - Input validation completed successfully: Column 'mobile_number' has 3 rows with invalid mobile lengths.
+2025-01-08 13:03:41 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-01-08 13:03:41 - INFO - Validating inputs.
+2025-01-08 13:03:41 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2025-01-08 13:03:41 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 13:03:41 - INFO - Validating inputs.
+2025-01-08 13:03:41 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2025-01-08 13:03:41 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 13:03:41 - INFO - Validating inputs.
+2025-01-08 13:03:41 - INFO - Input validation completed successfully: Column 'customer_age' has no invalid ages.
+2025-01-08 13:03:41 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-01-08 13:03:41 - INFO - Validating inputs.
+2025-01-08 13:03:41 - INFO - Input validation completed successfully: Column 'customer_age' has 2 rows with invalid ages.
+2025-01-08 13:03:41 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-01-08 13:03:43 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-01-08 13:03:43 - INFO - Validating inputs.
+2025-01-08 13:03:50 - INFO - Input validation completed successfully: Column 'customer_name' has 4 rows with null or blank values.
+2025-01-08 13:03:50 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2025-01-08 13:03:50 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-01-08 13:03:50 - INFO - Validating inputs.
+2025-01-08 13:03:50 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-01-08 13:03:51 - INFO - Writing validation issues in csv file hoonartek_test_data.csv_validation_2025-01-08_13-03-51.csv

@@ -1,0 +1,24 @@
+2025-03-24 10:49:29 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-24 10:49:29 - INFO - Validating inputs.
+2025-03-24 10:49:32 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-24 10:49:32 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-24 10:49:32 - INFO - Validating inputs.
+2025-03-24 10:49:32 - INFO - Input validation completed successfully: Column 'mobile_number' has 7 rows with invalid mobile lengths.
+2025-03-24 10:49:32 - INFO - Applying DQ rule [dq_customer_age_check] on 'mobile_number' column.
+2025-03-24 10:49:32 - INFO - Validating inputs.
+2025-03-24 10:49:32 - INFO - Input validation completed successfully: Column 'mobile_number' has 2 rows with null or blank values.
+2025-03-24 10:49:32 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-24 10:49:32 - INFO - Validating inputs.
+2025-03-24 10:49:32 - INFO - Input validation completed successfully: Column 'customer_age' has 3 rows with null or blank values.
+2025-03-24 10:49:32 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-03-24 10:49:32 - INFO - Validating inputs.
+2025-03-24 10:49:32 - INFO - Input validation completed successfully: Column 'customer_age' has 12 rows with invalid ages.
+2025-03-24 10:49:32 - INFO - Writing validation issues in csv file customers_validation.csv
+2025-03-24 10:50:01 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-24 10:50:01 - INFO - Validating inputs.
+2025-03-24 10:50:15 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-03-24 10:50:15 - INFO - Writing validation issues in csv file consumer_loan_validation.csv
+2025-03-24 10:50:19 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_name' column.
+2025-03-24 10:50:19 - INFO - Validating inputs.
+2025-03-24 10:50:19 - INFO - Input validation completed successfully: Column 'customer_name' has 2 rows with null or blank values.
+2025-03-24 10:50:19 - INFO - Writing validation issues in csv file hoonartek_test_data.csv_validation_2025-03-24_10-50-19.csv

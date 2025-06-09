@@ -1,0 +1,180 @@
+2025-05-29 01:54:11 - INFO - Applying DQ rule [dq_null_values_check] on 'mobile_number' column.
+2025-05-29 01:54:11 - INFO - Validating inputs.
+2025-05-29 01:54:11 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2025-05-29 01:54:11 - INFO - Applying DQ rule [dq_null_values_check] on 'mobile_number' column.
+2025-05-29 01:54:11 - INFO - Validating inputs.
+2025-05-29 01:54:11 - INFO - Applying DQ rule [dq_null_values_check] on 'mobile_number' column.
+2025-05-29 01:54:11 - INFO - Validating inputs.
+2025-05-29 01:54:11 - INFO - Applying DQ rule [dq_null_values_check] on 'mobile_number' column.
+2025-05-29 01:54:11 - INFO - Validating inputs.
+2025-05-29 01:54:11 - INFO - Applying DQ rule [dq_null_values_check] on 'mobile_number' column.
+2025-05-29 01:54:11 - INFO - Validating inputs.
+2025-05-29 01:54:22 - INFO - Input validation completed successfully: Column 'mobile_number' has 7479 rows with null or blank values.
+2025-05-29 01:54:22 - INFO - Input validation completed successfully: Column 'mobile_number' has 7961 rows with null or blank values.
+2025-05-29 01:54:23 - INFO - Input validation completed successfully: Column 'mobile_number' has 7111 rows with null or blank values.
+2025-05-29 01:54:23 - INFO - Input validation completed successfully: Column 'mobile_number' has 7489 rows with null or blank values.
+2025-05-29 01:54:24 - INFO - Applying DQ rule [dq_mobile_length_check] on 'mobile_number' column.
+2025-05-29 01:54:24 - INFO - Validating inputs.
+2025-05-29 01:54:24 - INFO - Input validation completed successfully: Column 'mobile_number' has 2 rows with invalid mobile lengths.
+2025-05-29 01:54:24 - INFO - Applying DQ rule [dq_mobile_length_check] on 'mobile_number' column.
+2025-05-29 01:54:24 - INFO - Validating inputs.
+2025-05-29 01:54:24 - INFO - Applying DQ rule [dq_mobile_length_check] on 'mobile_number' column.
+2025-05-29 01:54:24 - INFO - Validating inputs.
+2025-05-29 01:54:24 - INFO - Applying DQ rule [dq_mobile_length_check] on 'mobile_number' column.
+2025-05-29 01:54:24 - INFO - Validating inputs.
+2025-05-29 01:54:24 - INFO - Applying DQ rule [dq_mobile_length_check] on 'mobile_number' column.
+2025-05-29 01:54:24 - INFO - Validating inputs.
+2025-05-29 01:54:38 - INFO - Input validation completed successfully: Column 'mobile_number' has 14858 rows with invalid mobile lengths.
+2025-05-29 01:54:38 - INFO - Input validation completed successfully: Column 'mobile_number' has 14335 rows with invalid mobile lengths.
+2025-05-29 01:54:38 - INFO - Input validation completed successfully: Column 'mobile_number' has 14899 rows with invalid mobile lengths.
+2025-05-29 01:54:38 - INFO - Input validation completed successfully: Column 'mobile_number' has 15387 rows with invalid mobile lengths.
+2025-05-29 01:54:39 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-05-29 01:54:39 - INFO - Validating inputs.
+2025-05-29 01:54:39 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-05-29 01:54:40 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-05-29 01:54:40 - INFO - Validating inputs.
+2025-05-29 01:54:40 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-05-29 01:54:40 - INFO - Validating inputs.
+2025-05-29 01:54:40 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-05-29 01:54:40 - INFO - Validating inputs.
+2025-05-29 01:54:40 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-05-29 01:54:40 - INFO - Validating inputs.
+2025-05-29 01:54:53 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-05-29 01:54:53 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-05-29 01:54:54 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-05-29 01:54:54 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-05-29 01:54:55 - INFO - Applying DQ rule [dq_null_values_check] on 'pan_number' column.
+2025-05-29 01:54:55 - INFO - Validating inputs.
+2025-05-29 01:54:55 - INFO - Input validation completed successfully: Column 'pan_number' has 1 rows with null or blank values.
+2025-05-29 01:54:55 - INFO - Applying DQ rule [dq_null_values_check] on 'pan_number' column.
+2025-05-29 01:54:55 - INFO - Validating inputs.
+2025-05-29 01:54:55 - INFO - Applying DQ rule [dq_null_values_check] on 'pan_number' column.
+2025-05-29 01:54:55 - INFO - Validating inputs.
+2025-05-29 01:54:55 - INFO - Applying DQ rule [dq_null_values_check] on 'pan_number' column.
+2025-05-29 01:54:55 - INFO - Validating inputs.
+2025-05-29 01:54:55 - INFO - Applying DQ rule [dq_null_values_check] on 'pan_number' column.
+2025-05-29 01:54:55 - INFO - Validating inputs.
+2025-05-29 01:55:08 - INFO - Input validation completed successfully: Column 'pan_number' has 4980 rows with null or blank values.
+2025-05-29 01:55:08 - INFO - Input validation completed successfully: Column 'pan_number' has 4922 rows with null or blank values.
+2025-05-29 01:55:09 - INFO - Input validation completed successfully: Column 'pan_number' has 4755 rows with null or blank values.
+2025-05-29 01:55:09 - INFO - Input validation completed successfully: Column 'pan_number' has 5558 rows with null or blank values.
+2025-05-29 01:55:10 - INFO - Applying DQ rule [dq_pan_number_check] on 'pan_number' column.
+2025-05-29 01:55:10 - INFO - Validating inputs.
+2025-05-29 01:55:10 - INFO - Input validation completed: Column 'pan_number' has 2 rows with invalid PAN formats.
+2025-05-29 01:55:11 - INFO - Applying DQ rule [dq_pan_number_check] on 'pan_number' column.
+2025-05-29 01:55:11 - INFO - Validating inputs.
+2025-05-29 01:55:11 - INFO - Applying DQ rule [dq_pan_number_check] on 'pan_number' column.
+2025-05-29 01:55:11 - INFO - Applying DQ rule [dq_pan_number_check] on 'pan_number' column.
+2025-05-29 01:55:11 - INFO - Applying DQ rule [dq_pan_number_check] on 'pan_number' column.
+2025-05-29 01:55:11 - INFO - Validating inputs.
+2025-05-29 01:55:11 - INFO - Validating inputs.
+2025-05-29 01:55:11 - INFO - Validating inputs.
+2025-05-29 01:55:25 - INFO - Input validation completed: Column 'pan_number' has 12954 rows with invalid PAN formats.
+2025-05-29 01:55:26 - INFO - Input validation completed: Column 'pan_number' has 12278 rows with invalid PAN formats.
+2025-05-29 01:55:26 - INFO - Input validation completed: Column 'pan_number' has 11947 rows with invalid PAN formats.
+2025-05-29 01:55:26 - INFO - Input validation completed: Column 'pan_number' has 12179 rows with invalid PAN formats.
+2025-05-29 01:55:27 - INFO - Applying DQ rule [dq_null_values_check] on 'pincode' column.
+2025-05-29 01:55:27 - INFO - Validating inputs.
+2025-05-29 01:55:27 - INFO - Input validation completed successfully: Column 'pincode' has 1 rows with null or blank values.
+2025-05-29 01:55:27 - INFO - Applying DQ rule [dq_null_values_check] on 'pincode' column.
+2025-05-29 01:55:27 - INFO - Validating inputs.
+2025-05-29 01:55:27 - INFO - Applying DQ rule [dq_null_values_check] on 'pincode' column.
+2025-05-29 01:55:27 - INFO - Validating inputs.
+2025-05-29 01:55:27 - INFO - Applying DQ rule [dq_null_values_check] on 'pincode' column.
+2025-05-29 01:55:27 - INFO - Validating inputs.
+2025-05-29 01:55:27 - INFO - Applying DQ rule [dq_null_values_check] on 'pincode' column.
+2025-05-29 01:55:27 - INFO - Validating inputs.
+2025-05-29 01:55:40 - INFO - Input validation completed successfully: Column 'pincode' has 8375 rows with null or blank values.
+2025-05-29 01:55:40 - INFO - Input validation completed successfully: Column 'pincode' has 8432 rows with null or blank values.
+2025-05-29 01:55:40 - INFO - Input validation completed successfully: Column 'pincode' has 8382 rows with null or blank values.
+2025-05-29 01:55:41 - INFO - Input validation completed successfully: Column 'pincode' has 8296 rows with null or blank values.
+2025-05-29 01:55:42,224 - INFO - Applying DQ rule [dq_pincode_check] on column 'pincode'.
+2025-05-29 01:55:42,228 - INFO - Found 1 rows with invalid pincodes in column 'pincode'.
+2025-05-29 01:55:42,651 - INFO - Applying DQ rule [dq_pincode_check] on column 'pincode'.
+2025-05-29 01:55:42,651 - INFO - Applying DQ rule [dq_pincode_check] on column 'pincode'.
+2025-05-29 01:55:42,651 - INFO - Applying DQ rule [dq_pincode_check] on column 'pincode'.
+2025-05-29 01:55:42,653 - INFO - Applying DQ rule [dq_pincode_check] on column 'pincode'.
+2025-05-29 01:55:44,720 - INFO - Found 5365 rows with invalid pincodes in column 'pincode'.
+2025-05-29 01:55:44,903 - INFO - Found 5373 rows with invalid pincodes in column 'pincode'.
+2025-05-29 01:55:44,911 - INFO - Found 5383 rows with invalid pincodes in column 'pincode'.
+2025-05-29 01:55:44,916 - INFO - Found 5394 rows with invalid pincodes in column 'pincode'.
+2025-05-29 01:55:45,939 - INFO - Applying DQ rule [dq_invalid_date_check] on 'account_creation_date' with format '%Y-%m-%d'.
+2025-05-29 01:55:45,942 - INFO - Found 1 rows with invalid date formats in column 'account_creation_date'.
+2025-05-29 01:55:46,345 - INFO - Applying DQ rule [dq_invalid_date_check] on 'account_creation_date' with format '%Y-%m-%d'.
+2025-05-29 01:55:46,346 - INFO - Applying DQ rule [dq_invalid_date_check] on 'account_creation_date' with format '%Y-%m-%d'.
+2025-05-29 01:55:46,346 - INFO - Applying DQ rule [dq_invalid_date_check] on 'account_creation_date' with format '%Y-%m-%d'.
+2025-05-29 01:55:46,374 - INFO - Applying DQ rule [dq_invalid_date_check] on 'account_creation_date' with format '%Y-%m-%d'.
+2025-05-29 01:56:01,824 - INFO - Found 6173 rows with invalid date formats in column 'account_creation_date'.
+2025-05-29 01:56:02,393 - INFO - Found 6358 rows with invalid date formats in column 'account_creation_date'.
+2025-05-29 01:56:02,563 - INFO - Found 6216 rows with invalid date formats in column 'account_creation_date'.
+2025-05-29 01:56:02,564 - INFO - Found 6253 rows with invalid date formats in column 'account_creation_date'.
+2025-05-29 01:56:03 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-05-29 01:56:03 - INFO - Validating inputs.
+2025-05-29 01:56:03 - INFO - Input validation completed successfully: Column 'customer_age' has 2 rows with invalid ages.
+2025-05-29 01:56:03 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-05-29 01:56:03 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-05-29 01:56:03 - INFO - Validating inputs.
+2025-05-29 01:56:03 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-05-29 01:56:03 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-05-29 01:56:03 - INFO - Validating inputs.
+2025-05-29 01:56:03 - INFO - Validating inputs.
+2025-05-29 01:56:03 - INFO - Validating inputs.
+2025-05-29 01:56:04 - INFO - Input validation completed successfully: Column 'customer_age' has 19465 rows with invalid ages.
+2025-05-29 01:56:05 - INFO - Input validation completed successfully: Column 'customer_age' has 19515 rows with invalid ages.
+2025-05-29 01:56:05 - INFO - Input validation completed successfully: Column 'customer_age' has 19475 rows with invalid ages.
+2025-05-29 01:56:05 - INFO - Input validation completed successfully: Column 'customer_age' has 19350 rows with invalid ages.
+2025-05-29 01:56:06 - INFO - Applying DQ rule [dq_dob_age_check] on 'customer_age' column.
+2025-05-29 01:56:06 - INFO - Validating inputs.
+2025-05-29 01:56:06 - INFO - Input validation completed successfully: Column 'customer_age' has 2 rows with invalid ages.
+2025-05-29 01:56:06 - INFO - Applying DQ rule [dq_dob_age_check] on 'customer_age' column.
+2025-05-29 01:56:06 - INFO - Applying DQ rule [dq_dob_age_check] on 'customer_age' column.
+2025-05-29 01:56:06 - INFO - Validating inputs.
+2025-05-29 01:56:06 - INFO - Applying DQ rule [dq_dob_age_check] on 'customer_age' column.
+2025-05-29 01:56:06 - INFO - Applying DQ rule [dq_dob_age_check] on 'customer_age' column.
+2025-05-29 01:56:06 - INFO - Validating inputs.
+2025-05-29 01:56:06 - INFO - Validating inputs.
+2025-05-29 01:56:06 - INFO - Validating inputs.
+2025-05-29 01:56:07 - INFO - Input validation completed successfully: Column 'customer_age' has 41234 rows with invalid ages.
+2025-05-29 01:56:07 - INFO - Input validation completed successfully: Column 'customer_age' has 41491 rows with invalid ages.
+2025-05-29 01:56:08 - INFO - Input validation completed successfully: Column 'customer_age' has 41099 rows with invalid ages.
+2025-05-29 01:56:08 - INFO - Input validation completed successfully: Column 'customer_age' has 41493 rows with invalid ages.
+2025-05-29 01:56:15 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-05-29 01:56:15 - INFO - Validating inputs.
+2025-05-29 01:56:15 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-05-29 01:56:15 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-05-29 01:56:15 - INFO - Validating inputs.
+2025-05-29 01:56:15 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-05-29 01:56:15 - INFO - Validating inputs.
+2025-05-29 01:56:15 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-05-29 01:56:15 - INFO - Validating inputs.
+2025-05-29 01:56:15 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-05-29 01:56:15 - INFO - Validating inputs.
+2025-05-29 01:56:15 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-05-29 01:56:15 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-05-29 01:56:15 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-05-29 01:56:15 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-05-29 01:56:16 - INFO - Applying DQ rule [dq_null_values_check] on 'order_name' column.
+2025-05-29 01:56:16 - INFO - Validating inputs.
+2025-05-29 01:56:16 - INFO - Input validation completed successfully: Column 'order_name' has 1 rows with null or blank values.
+2025-05-29 01:56:16 - INFO - Applying DQ rule [dq_null_values_check] on 'order_name' column.
+2025-05-29 01:56:16 - INFO - Applying DQ rule [dq_null_values_check] on 'order_name' column.
+2025-05-29 01:56:16 - INFO - Validating inputs.
+2025-05-29 01:56:16 - INFO - Applying DQ rule [dq_null_values_check] on 'order_name' column.
+2025-05-29 01:56:16 - INFO - Validating inputs.
+2025-05-29 01:56:16 - INFO - Applying DQ rule [dq_null_values_check] on 'order_name' column.
+2025-05-29 01:56:17 - INFO - Validating inputs.
+2025-05-29 01:56:16 - INFO - Validating inputs.
+2025-05-29 01:56:17 - INFO - Input validation completed successfully: Column 'order_name' has 580 rows with null or blank values.
+2025-05-29 01:56:17 - INFO - Input validation completed successfully: Column 'order_name' has 780 rows with null or blank values.
+2025-05-29 01:56:17 - INFO - Input validation completed successfully: Column 'order_name' has 576 rows with null or blank values.
+2025-05-29 01:56:17 - INFO - Input validation completed successfully: Column 'order_name' has 566 rows with null or blank values.
+2025-05-29 01:56:18,658 - INFO - Applying DQ rule [dq_invalid_date_check] on 'order_date' with format '%Y-%m-%d'.
+2025-05-29 01:56:18,662 - INFO - Found 1 rows with invalid date formats in column 'order_date'.
+2025-05-29 01:56:18,693 - INFO - Applying DQ rule [dq_invalid_date_check] on 'order_date' with format '%Y-%m-%d'.
+2025-05-29 01:56:18,693 - INFO - Applying DQ rule [dq_invalid_date_check] on 'order_date' with format '%Y-%m-%d'.
+2025-05-29 01:56:18,702 - INFO - Applying DQ rule [dq_invalid_date_check] on 'order_date' with format '%Y-%m-%d'.
+2025-05-29 01:56:18,713 - INFO - Applying DQ rule [dq_invalid_date_check] on 'order_date' with format '%Y-%m-%d'.
+2025-05-29 01:56:19,649 - INFO - Found 1188 rows with invalid date formats in column 'order_date'.
+2025-05-29 01:56:20,255 - INFO - Found 441 rows with invalid date formats in column 'order_date'.
+2025-05-29 01:56:20,362 - INFO - Found 436 rows with invalid date formats in column 'order_date'.
+2025-05-29 01:56:20,365 - INFO - Found 435 rows with invalid date formats in column 'order_date'.

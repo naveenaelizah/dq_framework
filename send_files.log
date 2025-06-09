@@ -1,0 +1,235 @@
+nohup: ignoring input
+ * Serving Flask app 'send_files'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8007
+ * Running on http://10.1.1.98:8007
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 896-081-577
+nohup: ignoring input
+ * Serving Flask app 'send_files'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8007
+ * Running on http://10.1.1.98:8007
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+10.1.1.1 - - [22/May/2025 21:13:25] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+10.1.1.1 - - [22/May/2025 21:13:27] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+10.1.1.1 - - [22/May/2025 21:13:40] "GET /download/failed/testing9762_customers_failed_records_2025-05-22_20-11-24.csv HTTP/1.1" 200 -
+10.1.1.1 - - [22/May/2025 22:01:03] "GET / HTTP/1.1" 404 -
+10.1.1.1 - - [22/May/2025 22:10:52] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+ * Detected change in '/home/htu708/dq_solution/send_files.py', reloading
+ * Restarting with stat
+Traceback (most recent call last):
+  File "/home/htu708/dq_solution/send_files.py", line 31, in <module>
+    app.add_middleware(
+    ^^^^^^^^^^^^^^^^^^
+AttributeError: 'Flask' object has no attribute 'add_middleware'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/home/htu708/dq_solution/send_files.py", line 31, in <module>
+    app.add_middleware(
+    ^^^^^^^^^^^^^^^^^^
+AttributeError: 'Flask' object has no attribute 'add_middleware'
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/home/htu708/dq_solution/send_files.py", line 31, in <module>
+    app.add_middleware(
+    ^^^^^^^^^^^^^^^^^^
+AttributeError: 'Flask' object has no attribute 'add_middleware'
+nohup: ignoring input
+ * Serving Flask app 'send_files'
+ * Debug mode: on
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8007
+ * Running on http://10.1.1.98:8007
+Press CTRL+C to quit
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+10.1.1.1 - - [22/May/2025 22:35:46] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+ * Detected change in '/home/htu708/dq_solution/list_config.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+10.1.1.1 - - [22/May/2025 23:05:31] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+10.1.1.1 - - [22/May/2025 23:10:18] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+10.1.1.1 - - [22/May/2025 23:20:58] "GET /send_dq_files/testing22/customers HTTP/1.1" 500 -
+10.1.1.1 - - [22/May/2025 23:21:31] "GET /send_dq_files/testing976/customers HTTP/1.1" 500 -
+10.1.1.1 - - [22/May/2025 23:21:33] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+10.1.1.1 - - [22/May/2025 23:24:33] "GET /download/clean/testing9762_customers_clean_records_2025-05-22_20-11-24.csv HTTP/1.1" 200 -
+10.1.1.1 - - [22/May/2025 23:26:40] "GET /download/failed/testing9762_customers_failed_records_2025-05-22_20-11-24.csv HTTP/1.1" 200 -
+10.1.1.1 - - [22/May/2025 23:28:02] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+ * Detected change in '/home/htu708/dq_solution/add_rules.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+ * Detected change in '/home/htu708/dq_solution/add_rules.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+10.1.1.1 - - [22/May/2025 23:31:11] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+ * Detected change in '/home/htu708/dq_solution/add_rules.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+ * Detected change in '/home/htu708/dq_solution/add_rules.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+10.1.1.1 - - [22/May/2025 23:49:05] "GET /send_dq_files/testing22/customers HTTP/1.1" 500 -
+10.1.1.1 - - [22/May/2025 23:49:07] "GET /send_dq_files/testing22/customers HTTP/1.1" 500 -
+10.1.1.1 - - [22/May/2025 23:49:18] "GET /send_dq_files/testing98821/customers HTTP/1.1" 500 -
+10.1.1.1 - - [22/May/2025 23:49:19] "GET /send_dq_files/testing98821/customers HTTP/1.1" 500 -
+10.1.1.1 - - [22/May/2025 23:49:55] "GET /send_dq_files/congigure_name/customers HTTP/1.1" 500 -
+10.1.1.1 - - [22/May/2025 23:49:58] "GET /send_dq_files/testing22/customers HTTP/1.1" 500 -
+10.1.1.1 - - [22/May/2025 23:50:01] "GET /send_dq_files/testing98821/customers HTTP/1.1" 500 -
+10.1.1.1 - - [22/May/2025 23:50:13] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+10.1.1.1 - - [22/May/2025 23:50:16] "GET /send_dq_files/testing98821/customers HTTP/1.1" 500 -
+10.1.1.1 - - [22/May/2025 23:57:24] "GET /send_dq_files/testing22/customers HTTP/1.1" 500 -
+10.1.1.1 - - [22/May/2025 23:57:27] "GET /send_dq_files/testing22/customers HTTP/1.1" 500 -
+10.1.1.1 - - [22/May/2025 23:57:47] "GET /send_dq_files/testing22/customers HTTP/1.1" 500 -
+10.1.1.1 - - [22/May/2025 23:58:41] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [22/May/2025 23:58:46] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [22/May/2025 23:59:09] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 00:00:40] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 00:00:42] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 00:00:43] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 00:00:57] "GET /send_dq_files/testing22/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 00:02:08] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 00:11:00] "GET /send_dq_files/testing98821/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 00:11:05] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 00:13:06] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 00:13:12] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 00:13:27] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 00:13:34] "GET /download/clean/testing9762_customers_clean_records_2025-05-22_20-11-24.csv HTTP/1.1" 304 -
+10.1.1.1 - - [23/May/2025 00:13:41] "GET /download/failed/testing9762_customers_failed_records_2025-05-22_20-11-24.csv HTTP/1.1" 304 -
+10.1.1.1 - - [23/May/2025 00:16:16] "GET /send_dq_files/testing22/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 00:18:41] "GET /send_dq_files/testing22/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 00:20:01] "GET /send_dq_files/testing22/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 00:20:09] "GET /send_dq_files/testing22/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 00:20:17] "GET /send_dq_files/testing22/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 00:20:26] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 00:24:05] "GET /send_dq_files/testing22/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 00:24:08] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 00:53:13] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 00:53:19] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 00:53:22] "GET /download/failed/testing9762_customers_failed_records_2025-05-22_20-11-24.csv HTTP/1.1" 304 -
+10.1.1.1 - - [23/May/2025 00:53:24] "GET /download/clean/testing9762_customers_clean_records_2025-05-22_20-11-24.csv HTTP/1.1" 304 -
+10.1.1.1 - - [23/May/2025 17:18:03] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 17:18:11] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 17:18:13] "GET /download/clean/testing9762_customers_clean_records_2025-05-22_20-11-24.csv HTTP/1.1" 304 -
+10.1.1.1 - - [23/May/2025 17:18:15] "GET /download/failed/testing9762_customers_failed_records_2025-05-22_20-11-24.csv HTTP/1.1" 304 -
+10.1.1.1 - - [23/May/2025 17:18:34] "GET /send_dq_files/congigure_name/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 20:46:06] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 20:46:21] "GET /download/clean/testing9762_customers_clean_records_2025-05-22_20-11-24.csv HTTP/1.1" 304 -
+10.1.1.1 - - [23/May/2025 20:46:24] "GET /download/failed/testing9762_customers_failed_records_2025-05-22_20-11-24.csv HTTP/1.1" 304 -
+ * Detected change in '/home/htu708/dq_solution/Hoonartek_dq_solution.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+ * Detected change in '/home/htu708/dq_solution/Hoonartek_dq_solution.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+ * Detected change in '/home/htu708/dq_solution/Hoonartek_dq_solution.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+ * Detected change in '/home/htu708/dq_solution/Hoonartek_dq_solution.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+10.1.1.1 - - [23/May/2025 21:32:20] "GET /send_dq_files/shreeaansh/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 21:32:47] "GET /send_dq_files/shreeaansh/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 21:33:11] "GET /download/clean/shreeaansh_customers_clean_records_2025-05-23_21-31-00.csv HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 21:33:23] "GET /download/failed/shreeaansh_customers_failed_records_2025-05-23_21-31-00.csv HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 21:37:05] "GET /send_dq_files/shreeaansh/customers HTTP/1.1" 200 -
+ * Detected change in '/home/htu708/dq_solution/list_config.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+10.1.1.1 - - [23/May/2025 21:37:16] "GET /send_dq_files/deepak/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 21:37:19] "GET /send_dq_files/shreeaansh/customers HTTP/1.1" 200 -
+ * Detected change in '/home/htu708/dq_solution/list_config.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+ * Detected change in '/home/htu708/dq_solution/list_config.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+ * Detected change in '/home/htu708/dq_solution/list_config.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+10.1.1.1 - - [23/May/2025 22:25:12] "GET /send_dq_files/Anil/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 22:25:19] "GET /send_dq_files/Anil/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 22:25:32] "GET /download/clean/Anil_customers_clean_records_2025-05-23_22-19-53.csv HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 22:25:34] "GET /download/failed/Anil_customers_failed_records_2025-05-23_22-19-53.csv HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 22:26:15] "GET /list_configurations%0A%20 HTTP/1.1" 404 -
+10.1.1.1 - - [23/May/2025 22:40:36] "GET /send_dq_files/testing9762/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 22:40:44] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 22:40:50] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 22:41:06] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 22:41:09] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 22:41:23] "GET /list_configurations%0A%20 HTTP/1.1" 404 -
+10.1.1.1 - - [23/May/2025 22:41:29] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 22:41:36] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 22:41:38] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 22:41:40] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 22:41:41] "GET /send_dq_files/testing22test66/customers HTTP/1.1" 500 -
+10.1.1.1 - - [23/May/2025 22:52:25] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 22:52:40] "GET /download/clean/Testing1_customers_clean_records_2025-05-23_22-49-09.csv HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 22:52:42] "GET /download/failed/Testing1_customers_failed_records_2025-05-23_22-49-09.csv HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 22:53:46] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 22:53:58] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 23:28:25] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 23:37:28] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 23:41:11] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [23/May/2025 23:41:24] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [24/May/2025 21:00:21] "GET /send_dq_files/Testing2/customers HTTP/1.1" 500 -
+10.1.1.1 - - [24/May/2025 21:01:31] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [24/May/2025 21:07:00] "GET /send_dq_files/Testing2/customers HTTP/1.1" 500 -
+10.1.1.1 - - [24/May/2025 21:07:04] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [24/May/2025 21:07:27] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [24/May/2025 21:10:29] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [24/May/2025 21:10:32] "GET /download/clean/Testing1_customers_clean_records_2025-05-23_22-49-09.csv HTTP/1.1" 200 -
+10.1.1.1 - - [24/May/2025 21:12:08] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [24/May/2025 21:13:36] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [24/May/2025 21:13:45] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [24/May/2025 21:16:25] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [24/May/2025 21:16:27] "GET /send_dq_files/Testing2/customers HTTP/1.1" 500 -
+10.1.1.1 - - [25/May/2025 00:01:55] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [25/May/2025 00:02:06] "GET /download/clean/Testing1_customers_clean_records_2025-05-23_22-49-09.csv HTTP/1.1" 206 -
+10.1.1.1 - - [25/May/2025 00:02:06] "GET /download/clean/Testing1_customers_clean_records_2025-05-23_22-49-09.csv HTTP/1.1" 206 -
+10.1.1.1 - - [25/May/2025 00:02:24] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [25/May/2025 00:24:49] "GET /send_dq_files/Testing2/customers HTTP/1.1" 500 -
+10.1.1.1 - - [25/May/2025 00:25:01] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [26/May/2025 18:49:07] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [26/May/2025 21:11:34] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+10.1.1.1 - - [26/May/2025 21:57:27] "GET /send_dq_files/Testing1/customers HTTP/1.1" 200 -
+ * Detected change in '/home/htu708/dq_solution/add_rules.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+ * Detected change in '/home/htu708/dq_solution/add_rules.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 743-942-884
+10.1.1.1 - - [26/May/2025 22:27:50] "GET /send_dq_files/Testing3/{customers,orders} HTTP/1.1" 500 -
+ * Detected change in '/home/htu708/dq_solution/send_files.py', reloading
+ * Restarting with stat
+Traceback (most recent call last):
+  File "/home/htu708/dq_solution/send_files.py", line 7, in <module>
+    from DataQuality import DataQuality  # Ensure this class is implemented correctly
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'DataQuality'

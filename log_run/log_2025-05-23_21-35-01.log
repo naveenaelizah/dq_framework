@@ -1,0 +1,12 @@
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+              Initializing the Hoonartek DQ Solution           
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Using DQ config JSON: /home/htu708/dq_solution/config/customer_dq_rules/config.json
+Using DB config JSON: /home/htu708/dq_solution/config/db_sources/db.json
+Checking DQ status using DB config: /home/htu708/dq_solution/config/db_sources/db.json
+Latest DQ Config ID: 46, Status: Completed, Created At: 2025-05-23 
+21:31:04.495794
+DQ Status is not Pending. Exiting DQ process.
+DQ check not initiated due to status not being Pending.

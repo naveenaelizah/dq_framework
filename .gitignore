@@ -1,0 +1,12 @@
+# Ignore folders
+data/
+config/
+venv/
+
+# Ignore specific files
+secret_config.yaml
+.env
+*.log        # All .log files
+*.pyc        # All Python bytecode files
+lii.log
+nohup.out

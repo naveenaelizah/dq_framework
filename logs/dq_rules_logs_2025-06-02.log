@@ -1,0 +1,259 @@
+2025-06-02 21:28:02 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-06-02 21:28:02 - INFO - Validating inputs.
+2025-06-02 21:28:02 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-06-02 21:28:02 - INFO - Applying DQ rule [dq_null_values_check] on 'name' column.
+2025-06-02 21:28:02 - INFO - Validating inputs.
+2025-06-02 21:28:02 - INFO - Input validation completed successfully: Column 'name' has no null or blank values.
+2025-06-02 21:28:02 - INFO - Applying DQ rule [dq_pattern_check] on 'pan_number' column.
+2025-06-02 21:28:02 - INFO - Input validation completed: Column 'pan_number' has 7 rows with invalid PAN formats.
+2025-06-02 21:28:02 - INFO - Applying DQ rule [dq_pattern_check] on 'aadhaar_number' column.
+2025-06-02 21:28:02 - INFO - Input validation completed: Column 'aadhaar_number' has 8 rows with invalid PAN formats.
+2025-06-02 23:01:31 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-06-02 23:01:31 - INFO - Validating inputs.
+2025-06-02 23:01:33 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-06-02 23:01:33 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_name' column.
+2025-06-02 23:01:33 - INFO - Validating inputs.
+2025-06-02 23:01:35 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-06-02 23:01:35 - INFO - Applying DQ rule [dq_null_values_check] on 'email' column.
+2025-06-02 23:01:35 - INFO - Validating inputs.
+2025-06-02 23:01:36 - INFO - Input validation completed successfully: Column 'email' has no null or blank values.
+2025-06-02 23:01:36 - INFO - Applying DQ rule [dq_null_values_check] on 'address' column.
+2025-06-02 23:01:36 - INFO - Validating inputs.
+2025-06-02 23:01:37 - INFO - Input validation completed successfully: Column 'address' has no null or blank values.
+2025-06-02 23:01:37 - INFO - Applying DQ rule [dq_null_values_check] on 'city' column.
+2025-06-02 23:01:37 - INFO - Validating inputs.
+2025-06-02 23:01:39 - INFO - Input validation completed successfully: Column 'city' has no null or blank values.
+2025-06-02 23:01:39 - INFO - Applying DQ rule [dq_null_values_check] on 'state' column.
+2025-06-02 23:01:39 - INFO - Validating inputs.
+2025-06-02 23:01:40 - INFO - Input validation completed successfully: Column 'state' has no null or blank values.
+2025-06-02 23:01:40 - INFO - Applying DQ rule [dq_null_values_check] on 'country' column.
+2025-06-02 23:01:40 - INFO - Validating inputs.
+2025-06-02 23:01:41 - INFO - Input validation completed successfully: Column 'country' has no null or blank values.
+2025-06-02 23:01:41 - INFO - Applying DQ rule [dq_null_values_check] on 'postal_code' column.
+2025-06-02 23:01:41 - INFO - Validating inputs.
+2025-06-02 23:01:42 - INFO - Input validation completed successfully: Column 'postal_code' has no null or blank values.
+2025-06-02 23:01:42 - INFO - Applying DQ rule [dq_null_values_check] on 'mobile_number' column.
+2025-06-02 23:01:42 - INFO - Validating inputs.
+2025-06-02 23:01:43 - INFO - Input validation completed successfully: Column 'mobile_number' has no null or blank values.
+2025-06-02 23:01:43 - INFO - Applying DQ rule [dq_dob_age_check] on 'age' column.
+2025-06-02 23:01:43 - INFO - Validating inputs.
+2025-06-02 23:01:44 - INFO - Input validation completed successfully: Column 'age' has 2500 rows with invalid ages.
+2025-06-02 23:01:44 - INFO - Applying DQ rule [dq_null_values_check] on 'field_1' column.
+2025-06-02 23:01:44 - INFO - Validating inputs.
+2025-06-02 23:01:46 - INFO - Input validation completed successfully: Column 'field_1' has 52343 rows with null or blank values.
+2025-06-02 23:01:46 - INFO - Applying DQ rule [dq_null_values_check] on 'field_2' column.
+2025-06-02 23:01:46 - INFO - Validating inputs.
+2025-06-02 23:01:47 - INFO - Input validation completed successfully: Column 'field_2' has 52367 rows with null or blank values.
+2025-06-02 23:01:47 - INFO - Applying DQ rule [dq_null_values_check] on 'field_3' column.
+2025-06-02 23:01:47 - INFO - Validating inputs.
+2025-06-02 23:01:48 - INFO - Input validation completed successfully: Column 'field_3' has 52393 rows with null or blank values.
+2025-06-02 23:01:48 - INFO - Applying DQ rule [dq_null_values_check] on 'field_4' column.
+2025-06-02 23:01:48 - INFO - Validating inputs.
+2025-06-02 23:01:49 - INFO - Input validation completed successfully: Column 'field_4' has 52410 rows with null or blank values.
+2025-06-02 23:01:49 - INFO - Applying DQ rule [dq_null_values_check] on 'field_5' column.
+2025-06-02 23:01:49 - INFO - Validating inputs.
+2025-06-02 23:01:50 - INFO - Input validation completed successfully: Column 'field_5' has 52446 rows with null or blank values.
+2025-06-02 23:01:50 - INFO - Applying DQ rule [dq_null_values_check] on 'field_6' column.
+2025-06-02 23:01:50 - INFO - Validating inputs.
+2025-06-02 23:01:51 - INFO - Input validation completed successfully: Column 'field_6' has 52648 rows with null or blank values.
+2025-06-02 23:01:51 - INFO - Applying DQ rule [dq_null_values_check] on 'field_7' column.
+2025-06-02 23:01:51 - INFO - Validating inputs.
+2025-06-02 23:01:53 - INFO - Input validation completed successfully: Column 'field_7' has 52550 rows with null or blank values.
+2025-06-02 23:01:53 - INFO - Applying DQ rule [dq_null_values_check] on 'field_8' column.
+2025-06-02 23:01:53 - INFO - Validating inputs.
+2025-06-02 23:01:54 - INFO - Input validation completed successfully: Column 'field_8' has 52649 rows with null or blank values.
+2025-06-02 23:01:54 - INFO - Applying DQ rule [dq_null_values_check] on 'field_9' column.
+2025-06-02 23:01:54 - INFO - Validating inputs.
+2025-06-02 23:01:56 - INFO - Input validation completed successfully: Column 'field_9' has 52771 rows with null or blank values.
+2025-06-02 23:01:56 - INFO - Applying DQ rule [dq_null_values_check] on 'field_10' column.
+2025-06-02 23:01:56 - INFO - Validating inputs.
+2025-06-02 23:01:57 - INFO - Input validation completed successfully: Column 'field_10' has 52532 rows with null or blank values.
+2025-06-02 23:01:57 - INFO - Applying DQ rule [dq_null_values_check] on 'field_11' column.
+2025-06-02 23:01:57 - INFO - Validating inputs.
+2025-06-02 23:01:59 - INFO - Input validation completed successfully: Column 'field_11' has 52728 rows with null or blank values.
+2025-06-02 23:01:59 - INFO - Applying DQ rule [dq_null_values_check] on 'field_12' column.
+2025-06-02 23:01:59 - INFO - Validating inputs.
+2025-06-02 23:02:00 - INFO - Input validation completed successfully: Column 'field_12' has 52456 rows with null or blank values.
+2025-06-02 23:02:00 - INFO - Applying DQ rule [dq_null_values_check] on 'field_13' column.
+2025-06-02 23:02:00 - INFO - Validating inputs.
+2025-06-02 23:02:02 - INFO - Input validation completed successfully: Column 'field_13' has 52288 rows with null or blank values.
+2025-06-02 23:13:17 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-06-02 23:13:17 - INFO - Validating inputs.
+2025-06-02 23:13:18 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-06-02 23:13:18 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_name' column.
+2025-06-02 23:13:18 - INFO - Validating inputs.
+2025-06-02 23:13:20 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-06-02 23:13:20 - INFO - Applying DQ rule [dq_null_values_check] on 'email' column.
+2025-06-02 23:13:20 - INFO - Validating inputs.
+2025-06-02 23:13:21 - INFO - Input validation completed successfully: Column 'email' has no null or blank values.
+2025-06-02 23:13:21 - INFO - Applying DQ rule [dq_pattern_check] on 'email' column.
+2025-06-02 23:13:22 - INFO - Input validation completed: Column 'email' has 100000 rows with invalid PAN formats.
+2025-06-02 23:13:22 - INFO - Applying DQ rule [dq_null_values_check] on 'address' column.
+2025-06-02 23:13:22 - INFO - Validating inputs.
+2025-06-02 23:13:23 - INFO - Input validation completed successfully: Column 'address' has no null or blank values.
+2025-06-02 23:13:23 - INFO - Applying DQ rule [dq_null_values_check] on 'city' column.
+2025-06-02 23:13:23 - INFO - Validating inputs.
+2025-06-02 23:13:24 - INFO - Input validation completed successfully: Column 'city' has no null or blank values.
+2025-06-02 23:13:25 - INFO - Applying DQ rule [dq_null_values_check] on 'state' column.
+2025-06-02 23:13:25 - INFO - Validating inputs.
+2025-06-02 23:13:26 - INFO - Input validation completed successfully: Column 'state' has no null or blank values.
+2025-06-02 23:13:26 - INFO - Applying DQ rule [dq_null_values_check] on 'country' column.
+2025-06-02 23:13:26 - INFO - Validating inputs.
+2025-06-02 23:13:27 - INFO - Input validation completed successfully: Column 'country' has no null or blank values.
+2025-06-02 23:13:27 - INFO - Applying DQ rule [dq_pattern_check] on 'postal_code' column.
+2025-06-02 23:13:29 - INFO - Input validation completed: Column 'postal_code' has 100000 rows with invalid PAN formats.
+2025-06-02 23:13:29 - INFO - Applying DQ rule [dq_null_values_check] on 'postal_code' column.
+2025-06-02 23:13:29 - INFO - Validating inputs.
+2025-06-02 23:13:31 - INFO - Input validation completed successfully: Column 'postal_code' has no null or blank values.
+2025-06-02 23:13:31 - INFO - Applying DQ rule [dq_pattern_check] on 'mobile_number' column.
+2025-06-02 23:13:32 - INFO - Input validation completed: Column 'mobile_number' has 100000 rows with invalid PAN formats.
+2025-06-02 23:13:32 - INFO - Applying DQ rule [dq_null_values_check] on 'mobile_number' column.
+2025-06-02 23:13:32 - INFO - Validating inputs.
+2025-06-02 23:13:34 - INFO - Input validation completed successfully: Column 'mobile_number' has no null or blank values.
+2025-06-02 23:13:34 - INFO - Applying DQ rule [dq_null_values_check] on 'age' column.
+2025-06-02 23:13:34 - INFO - Validating inputs.
+2025-06-02 23:13:35 - INFO - Input validation completed successfully: Column 'age' has no null or blank values.
+2025-06-02 23:13:35 - INFO - Applying DQ rule [dq_customer_age_check] on 'age' column.
+2025-06-02 23:13:35 - INFO - Validating inputs.
+2025-06-02 23:13:35 - INFO - Input validation completed successfully: Column 'age' has 1479 rows with invalid ages.
+2025-06-02 23:13:35 - INFO - Applying DQ rule [dq_null_values_check] on 'field_1' column.
+2025-06-02 23:13:35 - INFO - Validating inputs.
+2025-06-02 23:13:37 - INFO - Input validation completed successfully: Column 'field_1' has 52343 rows with null or blank values.
+2025-06-02 23:13:37 - INFO - Applying DQ rule [dq_null_values_check] on 'field_2' column.
+2025-06-02 23:13:37 - INFO - Validating inputs.
+2025-06-02 23:13:38 - INFO - Input validation completed successfully: Column 'field_2' has 52367 rows with null or blank values.
+2025-06-02 23:13:38 - INFO - Applying DQ rule [dq_null_values_check] on 'field_3' column.
+2025-06-02 23:13:38 - INFO - Validating inputs.
+2025-06-02 23:13:39 - INFO - Input validation completed successfully: Column 'field_3' has 52393 rows with null or blank values.
+2025-06-02 23:13:39 - INFO - Applying DQ rule [dq_null_values_check] on 'field_4' column.
+2025-06-02 23:13:39 - INFO - Validating inputs.
+2025-06-02 23:13:40 - INFO - Input validation completed successfully: Column 'field_4' has 52410 rows with null or blank values.
+2025-06-02 23:13:40 - INFO - Applying DQ rule [dq_null_values_check] on 'field_5' column.
+2025-06-02 23:13:40 - INFO - Validating inputs.
+2025-06-02 23:13:41 - INFO - Input validation completed successfully: Column 'field_5' has 52446 rows with null or blank values.
+2025-06-02 23:13:41 - INFO - Applying DQ rule [dq_null_values_check] on 'field_6' column.
+2025-06-02 23:13:41 - INFO - Validating inputs.
+2025-06-02 23:13:43 - INFO - Input validation completed successfully: Column 'field_6' has 52648 rows with null or blank values.
+2025-06-02 23:13:43 - INFO - Applying DQ rule [dq_null_values_check] on 'field_7' column.
+2025-06-02 23:13:43 - INFO - Validating inputs.
+2025-06-02 23:13:44 - INFO - Input validation completed successfully: Column 'field_7' has 52550 rows with null or blank values.
+2025-06-02 23:13:44 - INFO - Applying DQ rule [dq_null_values_check] on 'field_8' column.
+2025-06-02 23:13:44 - INFO - Validating inputs.
+2025-06-02 23:13:46 - INFO - Input validation completed successfully: Column 'field_8' has 52649 rows with null or blank values.
+2025-06-02 23:13:46 - INFO - Applying DQ rule [dq_null_values_check] on 'field_9' column.
+2025-06-02 23:13:46 - INFO - Validating inputs.
+2025-06-02 23:13:47 - INFO - Input validation completed successfully: Column 'field_9' has 52771 rows with null or blank values.
+2025-06-02 23:13:47 - INFO - Applying DQ rule [dq_null_values_check] on 'field_10' column.
+2025-06-02 23:13:47 - INFO - Validating inputs.
+2025-06-02 23:13:49 - INFO - Input validation completed successfully: Column 'field_10' has 52532 rows with null or blank values.
+2025-06-02 23:13:49 - INFO - Applying DQ rule [dq_null_values_check] on 'field_11' column.
+2025-06-02 23:13:49 - INFO - Validating inputs.
+2025-06-02 23:13:51 - INFO - Input validation completed successfully: Column 'field_11' has 52728 rows with null or blank values.
+2025-06-02 23:13:51 - INFO - Applying DQ rule [dq_null_values_check] on 'field_12' column.
+2025-06-02 23:13:51 - INFO - Validating inputs.
+2025-06-02 23:13:52 - INFO - Input validation completed successfully: Column 'field_12' has 52456 rows with null or blank values.
+2025-06-02 23:13:52 - INFO - Applying DQ rule [dq_null_values_check] on 'field_13' column.
+2025-06-02 23:13:52 - INFO - Validating inputs.
+2025-06-02 23:13:53 - INFO - Input validation completed successfully: Column 'field_13' has 52288 rows with null or blank values.
+2025-06-02 23:13:53 - INFO - Applying DQ rule [dq_null_values_check] on 'field_14' column.
+2025-06-02 23:13:53 - INFO - Validating inputs.
+2025-06-02 23:13:55 - INFO - Input validation completed successfully: Column 'field_14' has 52551 rows with null or blank values.
+2025-06-02 23:13:55 - INFO - Applying DQ rule [dq_null_values_check] on 'field_15' column.
+2025-06-02 23:13:55 - INFO - Validating inputs.
+2025-06-02 23:13:56 - INFO - Input validation completed successfully: Column 'field_15' has 52681 rows with null or blank values.
+2025-06-02 23:13:56 - INFO - Applying DQ rule [dq_null_values_check] on 'field_16' column.
+2025-06-02 23:13:56 - INFO - Validating inputs.
+2025-06-02 23:13:57 - INFO - Input validation completed successfully: Column 'field_16' has 52465 rows with null or blank values.
+2025-06-02 23:13:57 - INFO - Applying DQ rule [dq_null_values_check] on 'field_17' column.
+2025-06-02 23:13:57 - INFO - Validating inputs.
+2025-06-02 23:13:59 - INFO - Input validation completed successfully: Column 'field_17' has 52338 rows with null or blank values.
+2025-06-02 23:13:59 - INFO - Applying DQ rule [dq_null_values_check] on 'field_18' column.
+2025-06-02 23:13:59 - INFO - Validating inputs.
+2025-06-02 23:14:00 - INFO - Input validation completed successfully: Column 'field_18' has 52329 rows with null or blank values.
+2025-06-02 23:14:00 - INFO - Applying DQ rule [dq_null_values_check] on 'field_19' column.
+2025-06-02 23:14:00 - INFO - Validating inputs.
+2025-06-02 23:14:01 - INFO - Input validation completed successfully: Column 'field_19' has 52203 rows with null or blank values.
+2025-06-02 23:14:01 - INFO - Applying DQ rule [dq_null_values_check] on 'field_20' column.
+2025-06-02 23:14:01 - INFO - Validating inputs.
+2025-06-02 23:14:03 - INFO - Input validation completed successfully: Column 'field_20' has 52248 rows with null or blank values.
+2025-06-02 23:14:03 - INFO - Applying DQ rule [dq_null_values_check] on 'field_21' column.
+2025-06-02 23:14:03 - INFO - Validating inputs.
+2025-06-02 23:14:04 - INFO - Input validation completed successfully: Column 'field_21' has 52413 rows with null or blank values.
+2025-06-02 23:14:04 - INFO - Applying DQ rule [dq_null_values_check] on 'field_22' column.
+2025-06-02 23:14:04 - INFO - Validating inputs.
+2025-06-02 23:14:05 - INFO - Input validation completed successfully: Column 'field_22' has 52561 rows with null or blank values.
+2025-06-02 23:14:05 - INFO - Applying DQ rule [dq_null_values_check] on 'field_23' column.
+2025-06-02 23:14:05 - INFO - Validating inputs.
+2025-06-02 23:14:06 - INFO - Input validation completed successfully: Column 'field_23' has 52683 rows with null or blank values.
+2025-06-02 23:14:06 - INFO - Applying DQ rule [dq_null_values_check] on 'field_24' column.
+2025-06-02 23:14:06 - INFO - Validating inputs.
+2025-06-02 23:14:07 - INFO - Input validation completed successfully: Column 'field_24' has 52514 rows with null or blank values.
+2025-06-02 23:14:07 - INFO - Applying DQ rule [dq_null_values_check] on 'field_25' column.
+2025-06-02 23:14:07 - INFO - Validating inputs.
+2025-06-02 23:14:08 - INFO - Input validation completed successfully: Column 'field_25' has 52538 rows with null or blank values.
+2025-06-02 23:14:08 - INFO - Applying DQ rule [dq_null_values_check] on 'field_26' column.
+2025-06-02 23:14:08 - INFO - Validating inputs.
+2025-06-02 23:14:10 - INFO - Input validation completed successfully: Column 'field_26' has 52739 rows with null or blank values.
+2025-06-02 23:14:10 - INFO - Applying DQ rule [dq_null_values_check] on 'field_27' column.
+2025-06-02 23:14:10 - INFO - Validating inputs.
+2025-06-02 23:14:11 - INFO - Input validation completed successfully: Column 'field_27' has 52672 rows with null or blank values.
+2025-06-02 23:14:11 - INFO - Applying DQ rule [dq_null_values_check] on 'field_28' column.
+2025-06-02 23:14:11 - INFO - Validating inputs.
+2025-06-02 23:14:12 - INFO - Input validation completed successfully: Column 'field_28' has 52296 rows with null or blank values.
+2025-06-02 23:14:12 - INFO - Applying DQ rule [dq_null_values_check] on 'field_29' column.
+2025-06-02 23:14:12 - INFO - Validating inputs.
+2025-06-02 23:14:13 - INFO - Input validation completed successfully: Column 'field_29' has 52392 rows with null or blank values.
+2025-06-02 23:14:13 - INFO - Applying DQ rule [dq_null_values_check] on 'field_30' column.
+2025-06-02 23:14:13 - INFO - Validating inputs.
+2025-06-02 23:14:14 - INFO - Input validation completed successfully: Column 'field_30' has 52557 rows with null or blank values.
+2025-06-02 23:14:14 - INFO - Applying DQ rule [dq_null_values_check] on 'field_31' column.
+2025-06-02 23:14:14 - INFO - Validating inputs.
+2025-06-02 23:14:16 - INFO - Input validation completed successfully: Column 'field_31' has 52474 rows with null or blank values.
+2025-06-02 23:14:16 - INFO - Applying DQ rule [dq_null_values_check] on 'field_32' column.
+2025-06-02 23:14:16 - INFO - Validating inputs.
+2025-06-02 23:14:17 - INFO - Input validation completed successfully: Column 'field_32' has 52296 rows with null or blank values.
+2025-06-02 23:14:17 - INFO - Applying DQ rule [dq_null_values_check] on 'field_33' column.
+2025-06-02 23:14:17 - INFO - Validating inputs.
+2025-06-02 23:14:19 - INFO - Input validation completed successfully: Column 'field_33' has 52809 rows with null or blank values.
+2025-06-02 23:14:19 - INFO - Applying DQ rule [dq_null_values_check] on 'field_34' column.
+2025-06-02 23:14:19 - INFO - Validating inputs.
+2025-06-02 23:14:20 - INFO - Input validation completed successfully: Column 'field_34' has 52411 rows with null or blank values.
+2025-06-02 23:14:20 - INFO - Applying DQ rule [dq_null_values_check] on 'field_35' column.
+2025-06-02 23:14:20 - INFO - Validating inputs.
+2025-06-02 23:14:21 - INFO - Input validation completed successfully: Column 'field_35' has 52359 rows with null or blank values.
+2025-06-02 23:14:21 - INFO - Applying DQ rule [dq_null_values_check] on 'field_36' column.
+2025-06-02 23:14:21 - INFO - Validating inputs.
+2025-06-02 23:14:23 - INFO - Input validation completed successfully: Column 'field_36' has 52354 rows with null or blank values.
+2025-06-02 23:14:23 - INFO - Applying DQ rule [dq_null_values_check] on 'field_37' column.
+2025-06-02 23:14:23 - INFO - Validating inputs.
+2025-06-02 23:14:24 - INFO - Input validation completed successfully: Column 'field_37' has 52730 rows with null or blank values.
+2025-06-02 23:14:24 - INFO - Applying DQ rule [dq_null_values_check] on 'field_38' column.
+2025-06-02 23:14:24 - INFO - Validating inputs.
+2025-06-02 23:14:25 - INFO - Input validation completed successfully: Column 'field_38' has 52552 rows with null or blank values.
+2025-06-02 23:14:25 - INFO - Applying DQ rule [dq_null_values_check] on 'field_39' column.
+2025-06-02 23:14:25 - INFO - Validating inputs.
+2025-06-02 23:14:26 - INFO - Input validation completed successfully: Column 'field_39' has 52617 rows with null or blank values.
+2025-06-02 23:14:26 - INFO - Applying DQ rule [dq_null_values_check] on 'field_40' column.
+2025-06-02 23:14:26 - INFO - Validating inputs.
+2025-06-02 23:14:27 - INFO - Input validation completed successfully: Column 'field_40' has 52437 rows with null or blank values.
+2025-06-02 23:14:27 - INFO - Applying DQ rule [dq_null_values_check] on 'field_41' column.
+2025-06-02 23:14:27 - INFO - Validating inputs.
+2025-06-02 23:14:28 - INFO - Input validation completed successfully: Column 'field_41' has 52677 rows with null or blank values.
+2025-06-02 23:14:28 - INFO - Applying DQ rule [dq_null_values_check] on 'field_42' column.
+2025-06-02 23:14:28 - INFO - Validating inputs.
+2025-06-02 23:14:30 - INFO - Input validation completed successfully: Column 'field_42' has 52598 rows with null or blank values.
+2025-06-02 23:17:36 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-06-02 23:17:36 - INFO - Validating inputs.
+2025-06-02 23:17:36 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-06-02 23:17:36 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-06-02 23:17:36 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-06-02 23:17:36 - INFO - Validating inputs.
+2025-06-02 23:17:36 - INFO - Validating inputs.
+2025-06-02 23:17:36 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-06-02 23:17:36 - INFO - Applying DQ rule [dq_null_values_check] on 'id' column.
+2025-06-02 23:17:36 - INFO - Validating inputs.
+2025-06-02 23:17:36 - INFO - Validating inputs.
+2025-06-02 23:17:46 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-06-02 23:17:46 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-06-02 23:17:47 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.
+2025-06-02 23:17:47 - INFO - Input validation completed successfully: Column 'id' has no null or blank values.

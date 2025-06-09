@@ -1,0 +1,112 @@
+2025-05-08 22:36:39 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_name' column.
+2025-05-08 22:36:39 - INFO - Validating inputs.
+2025-05-08 22:36:39 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2025-05-08 22:36:40 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_name' column.
+2025-05-08 22:36:40 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_name' column.
+2025-05-08 22:36:40 - INFO - Validating inputs.
+2025-05-08 22:36:40 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_name' column.
+2025-05-08 22:36:40 - INFO - Validating inputs.
+2025-05-08 22:36:40 - INFO - Validating inputs.
+2025-05-08 22:36:40 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_name' column.
+2025-05-08 22:36:40 - INFO - Validating inputs.
+2025-05-08 22:36:51 - INFO - Input validation completed successfully: Column 'customer_name' has 7586 rows with null or blank values.
+2025-05-08 22:36:54 - INFO - Input validation completed successfully: Column 'customer_name' has 7563 rows with null or blank values.
+2025-05-08 22:36:55 - INFO - Input validation completed successfully: Column 'customer_name' has 7414 rows with null or blank values.
+2025-05-08 22:36:55 - INFO - Input validation completed successfully: Column 'customer_name' has 7412 rows with null or blank values.
+2025-05-08 22:36:56 - INFO - Applying DQ rule [dq_mobile_length_check] on 'mobile_number' column.
+2025-05-08 22:36:56 - INFO - Validating inputs.
+2025-05-08 22:36:56 - INFO - Input validation completed successfully: Column 'mobile_number' has 2 rows with invalid mobile lengths.
+2025-05-08 22:36:56 - INFO - Applying DQ rule [dq_mobile_length_check] on 'mobile_number' column.
+2025-05-08 22:36:56 - INFO - Validating inputs.
+2025-05-08 22:36:56 - INFO - Applying DQ rule [dq_mobile_length_check] on 'mobile_number' column.
+2025-05-08 22:36:56 - INFO - Applying DQ rule [dq_mobile_length_check] on 'mobile_number' column.
+2025-05-08 22:36:56 - INFO - Applying DQ rule [dq_mobile_length_check] on 'mobile_number' column.
+2025-05-08 22:36:56 - INFO - Validating inputs.
+2025-05-08 22:36:56 - INFO - Validating inputs.
+2025-05-08 22:36:56 - INFO - Validating inputs.
+2025-05-08 22:37:11 - INFO - Input validation completed successfully: Column 'mobile_number' has 14664 rows with invalid mobile lengths.
+2025-05-08 22:37:12 - INFO - Input validation completed successfully: Column 'mobile_number' has 14525 rows with invalid mobile lengths.
+2025-05-08 22:37:12 - INFO - Input validation completed successfully: Column 'mobile_number' has 14762 rows with invalid mobile lengths.
+2025-05-08 22:37:12 - INFO - Input validation completed successfully: Column 'mobile_number' has 14760 rows with invalid mobile lengths.
+2025-05-08 22:37:13 - INFO - Applying DQ rule [dq_null_values_check] on 'mobile_number' column.
+2025-05-08 22:37:13 - INFO - Validating inputs.
+2025-05-08 22:37:13 - INFO - Input validation completed successfully: Column 'mobile_number' has 1 rows with null or blank values.
+2025-05-08 22:37:13 - INFO - Applying DQ rule [dq_null_values_check] on 'mobile_number' column.
+2025-05-08 22:37:13 - INFO - Validating inputs.
+2025-05-08 22:37:13 - INFO - Applying DQ rule [dq_null_values_check] on 'mobile_number' column.
+2025-05-08 22:37:13 - INFO - Validating inputs.
+2025-05-08 22:37:13 - INFO - Applying DQ rule [dq_null_values_check] on 'mobile_number' column.
+2025-05-08 22:37:13 - INFO - Validating inputs.
+2025-05-08 22:37:13 - INFO - Applying DQ rule [dq_null_values_check] on 'mobile_number' column.
+2025-05-08 22:37:13 - INFO - Validating inputs.
+2025-05-08 22:37:28 - INFO - Input validation completed successfully: Column 'mobile_number' has 7431 rows with null or blank values.
+2025-05-08 22:37:29 - INFO - Input validation completed successfully: Column 'mobile_number' has 7460 rows with null or blank values.
+2025-05-08 22:37:29 - INFO - Input validation completed successfully: Column 'mobile_number' has 7372 rows with null or blank values.
+2025-05-08 22:37:29 - INFO - Input validation completed successfully: Column 'mobile_number' has 7433 rows with null or blank values.
+2025-05-08 22:37:30 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_age' column.
+2025-05-08 22:37:30 - INFO - Validating inputs.
+2025-05-08 22:37:30 - INFO - Input validation completed successfully: Column 'customer_age' has no null or blank values.
+2025-05-08 22:37:30 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_age' column.
+2025-05-08 22:37:30 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_age' column.
+2025-05-08 22:37:30 - INFO - Validating inputs.
+2025-05-08 22:37:30 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_age' column.
+2025-05-08 22:37:30 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_age' column.
+2025-05-08 22:37:30 - INFO - Validating inputs.
+2025-05-08 22:37:30 - INFO - Validating inputs.
+2025-05-08 22:37:30 - INFO - Validating inputs.
+2025-05-08 22:37:45 - INFO - Input validation completed successfully: Column 'customer_age' has 7631 rows with null or blank values.
+2025-05-08 22:37:46 - INFO - Input validation completed successfully: Column 'customer_age' has 7568 rows with null or blank values.
+2025-05-08 22:37:47 - INFO - Input validation completed successfully: Column 'customer_age' has 7603 rows with null or blank values.
+2025-05-08 22:37:47 - INFO - Input validation completed successfully: Column 'customer_age' has 7534 rows with null or blank values.
+2025-05-08 22:37:48 - INFO - Applying DQ rule [dq_dob_age_check] on 'customer_age' column.
+2025-05-08 22:37:48 - INFO - Validating inputs.
+2025-05-08 22:37:48 - INFO - Input validation completed successfully: Column 'customer_age' has 2 rows with invalid ages.
+2025-05-08 22:37:49 - INFO - Applying DQ rule [dq_dob_age_check] on 'customer_age' column.
+2025-05-08 22:37:49 - INFO - Applying DQ rule [dq_dob_age_check] on 'customer_age' column.
+2025-05-08 22:37:49 - INFO - Applying DQ rule [dq_dob_age_check] on 'customer_age' column.
+2025-05-08 22:37:49 - INFO - Applying DQ rule [dq_dob_age_check] on 'customer_age' column.
+2025-05-08 22:37:49 - INFO - Validating inputs.
+2025-05-08 22:37:49 - INFO - Validating inputs.
+2025-05-08 22:37:49 - INFO - Validating inputs.
+2025-05-08 22:37:49 - INFO - Validating inputs.
+2025-05-08 22:37:51 - INFO - Input validation completed successfully: Column 'customer_age' has 41330 rows with invalid ages.
+2025-05-08 22:37:51 - INFO - Input validation completed successfully: Column 'customer_age' has 41452 rows with invalid ages.
+2025-05-08 22:37:51 - INFO - Input validation completed successfully: Column 'customer_age' has 41646 rows with invalid ages.
+2025-05-08 22:37:51 - INFO - Input validation completed successfully: Column 'customer_age' has 41490 rows with invalid ages.
+2025-05-08 22:37:52 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-05-08 22:37:52 - INFO - Validating inputs.
+2025-05-08 22:37:52 - INFO - Input validation completed successfully: Column 'customer_age' has 2 rows with invalid ages.
+2025-05-08 22:37:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-05-08 22:37:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-05-08 22:37:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-05-08 22:37:53 - INFO - Validating inputs.
+2025-05-08 22:37:53 - INFO - Validating inputs.
+2025-05-08 22:37:53 - INFO - Validating inputs.
+2025-05-08 22:37:53 - INFO - Applying DQ rule [dq_customer_age_check] on 'customer_age' column.
+2025-05-08 22:37:53 - INFO - Validating inputs.
+2025-05-08 22:37:55 - INFO - Input validation completed successfully: Column 'customer_age' has 19316 rows with invalid ages.
+2025-05-08 22:37:55 - INFO - Input validation completed successfully: Column 'customer_age' has 19491 rows with invalid ages.
+2025-05-08 22:37:55 - INFO - Input validation completed successfully: Column 'customer_age' has 19509 rows with invalid ages.
+2025-05-08 22:37:55 - INFO - Input validation completed successfully: Column 'customer_age' has 19391 rows with invalid ages.
+2025-05-08 22:37:57 - INFO - Writing clean records to data/output/customers_clean_records_2025-05-08_22-37-57.csv
+2025-05-08 22:37:58 - INFO - Writing failed records to data/output/customers_failed_records_2025-05-08_22-37-57.csv
+2025-05-08 22:38:03 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_name' column.
+2025-05-08 22:38:03 - INFO - Validating inputs.
+2025-05-08 22:38:03 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2025-05-08 22:38:03 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_name' column.
+2025-05-08 22:38:03 - INFO - Validating inputs.
+2025-05-08 22:38:03 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2025-05-08 22:38:04 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_name' column.
+2025-05-08 22:38:04 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_name' column.
+2025-05-08 22:38:04 - INFO - Validating inputs.
+2025-05-08 22:38:04 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_name' column.
+2025-05-08 22:38:04 - INFO - Applying DQ rule [dq_null_values_check] on 'customer_name' column.
+2025-05-08 22:38:04 - INFO - Validating inputs.
+2025-05-08 22:38:04 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-05-08 22:38:04 - INFO - Validating inputs.
+2025-05-08 22:38:04 - INFO - Validating inputs.
+2025-05-08 22:38:04 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2025-05-08 22:38:04 - INFO - Input validation completed successfully: Column 'customer_name' has 1 rows with null or blank values.
+2025-05-08 22:38:04 - INFO - Input validation completed successfully: Column 'customer_name' has no null or blank values.
+2025-05-08 22:38:05 - INFO - Writing clean records to data/output/hoonartek_test_data.csv_clean_records_2025-05-08_22-38-05.csv
+2025-05-08 22:38:05 - INFO - Writing failed records to data/output/hoonartek_test_data.csv_failed_records_2025-05-08_22-38-05.csv
