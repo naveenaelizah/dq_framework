@@ -10,3 +10,6 @@ secret_config.yaml
 *.pyc        # All Python bytecode files
 lii.log
 nohup.out
+data/
+log_run/
+
