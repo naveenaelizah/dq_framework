@@ -1,0 +1,141 @@
+[
+  {
+    "type": "db",
+    "config_name": "csvUploadRules",
+    "database": "postgres",
+    "tables": [
+      {
+        "table_name": "customers",
+        "primary_key": "id",
+        "data_source": "HDFC_DQ_RULE",
+        "dq_column": [
+          "mobile_number",
+          "id",
+          "pan_number",
+          "pincode",
+          "account_creation_date",
+          "customer_age"
+        ],
+        "columns": [
+          {
+            "column_name": "mobile_number",
+            "dq_rule(s)": [
+              {
+                "rule_name": "dq_null_values_check",
+                "rule_dimension": "Completeness",
+                "add_info": {}
+              },
+              {
+                "rule_name": "dq_mobile_length_check",
+                "rule_dimension": "Validity",
+                "add_info": {}
+              }
+            ]
+          },
+          {
+            "column_name": "id",
+            "dq_rule(s)": [
+              {
+                "rule_name": "dq_null_values_check",
+                "rule_dimension": "Completeness",
+                "add_info": {}
+              }
+            ]
+          },
+          {
+            "column_name": "pan_number",
+            "dq_rule(s)": [
+              {
+                "rule_name": "dq_null_values_check",
+                "rule_dimension": "Completeness",
+                "add_info": {}
+              }
+            ]
+          },
+          {
+            "column_name": "pincode",
+            "dq_rule(s)": [
+              {
+                "rule_name": "dq_null_values_check",
+                "rule_dimension": "Completeness",
+                "add_info": {}
+              },
+              {
+                "rule_name": "dq_pincode_check",
+                "rule_dimension": "Validity",
+                "add_info": {}
+              }
+            ]
+          },
+          {
+            "column_name": "account_creation_date",
+            "dq_rule(s)": [
+              {
+                "rule_name": "dq_invalid_date_check",
+                "rule_dimension": "Validity",
+                "add_info": {}
+              }
+            ]
+          },
+          {
+            "column_name": "customer_age",
+            "dq_rule(s)": [
+              {
+                "rule_name": "dq_customer_age_check",
+                "rule_dimension": "Validity",
+                "add_info": {}
+              },
+              {
+                "rule_name": "dq_dob_age_check",
+                "rule_dimension": "Validity",
+                "add_info": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "table_name": "orders",
+        "primary_key": "id",
+        "data_source": "HDFC_DQ_RULE",
+        "dq_column": [
+          "id",
+          "order_name",
+          "order_date"
+        ],
+        "columns": [
+          {
+            "column_name": "id",
+            "dq_rule(s)": [
+              {
+                "rule_name": "dq_null_values_check",
+                "rule_dimension": "Completeness",
+                "add_info": {}
+              }
+            ]
+          },
+          {
+            "column_name": "order_name",
+            "dq_rule(s)": [
+              {
+                "rule_name": "dq_null_values_check",
+                "rule_dimension": "Completeness",
+                "add_info": {}
+              }
+            ]
+          },
+          {
+            "column_name": "order_date",
+            "dq_rule(s)": [
+              {
+                "rule_name": "dq_invalid_date_check",
+                "rule_dimension": "Validity",
+                "add_info": {}
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+[
+    {
+      "type": "db",
+      "database": "postgres",
+      "tables": [
+        {
+          "table_name": "customers",
+          "primary_key": "id",
+          "data_source": "HDFC_DQ_RULE",
+          "dq_column": ["id", "customer_name", "mobile_number", "customer_age"],
+          "columns": [
+            {
+              "column_name": "customer_name",
+              "dq_rule(s)": [
+                {
+                  "rule_name": "dq_null_values_check",
+                  "rule_dimension": "Completeness",
+                  "add_info": {}
+                }
+              ]
+            },
+            {
+              "column_name": "mobile_number",
+              "dq_rule(s)": [
+                {
+                  "rule_name": "dq_mobile_length_check",
+                  "rule_dimension": "Validity",
+                  "add_info": {}
+                },
+                {
+                  "rule_name": "dq_null_values_check",
+                  "rule_dimension": "Completeness",
+                  "add_info": {}
+                }
+              ]
+            },
+            {
+                "column_name": "pan_number",
+                "dq_rule(s)": [
+                  {
+                    "rule_name": "dq_pan_number_check",
+                    "rule_dimension": "Validity",
+                    "add_info": {}
+                  },
+                  {
+                    "rule_name": "dq_null_values_check",
+                    "rule_dimension": "Completeness",
+                    "add_info": {}
+                  }
+                ]
+              },
+            {
+              "column_name": "customer_age",
+              "dq_rule(s)": [
+                {
+                  "rule_name": "dq_null_values_check",
+                  "rule_dimension": "Completeness",
+                  "add_info": {}
+                },
+                {
+                  "rule_name": "dq_dob_age_check",
+                  "rule_dimension": "Validity",
+                  "add_info": {}
+                },
+                {
+                  "rule_name": "dq_customer_age_check",
+                  "rule_dimension": "Validity",
+                  "add_info": {}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "csv",
+      "files": [
+        {
+          "file_name": "hoonartek_test_data.csv",
+          "primary_key": "customer_id",
+          "data_source": "Hoonartek",
+          "dq_column": ["customer_id", "customer_name", "mobile_number"],
+          "columns": [
+            {
+              "column_name": "customer_name",
+              "dq_rule(s)": [
+                {
+                  "rule_name": "dq_null_values_check",
+                  "rule_dimension": "Completeness",
+                  "add_info": {}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

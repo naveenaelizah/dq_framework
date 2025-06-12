@@ -1,0 +1,10 @@
+[
+  {
+    "type":"postgresql",
+    "database":"postgres",
+    "username": "postgres",
+    "password": "shreyas",
+    "host": "localhost",
+    "port": "5432"
+  }
+]
