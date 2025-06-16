@@ -1,0 +1,12 @@
+- rule_id: dq_kyc_number_length_check
+  description: "If KYCType is IDP6 then KYCNumber length should be 12"
+  condition: "df['KYCType'] == 'IDP6'"
+  check: "df['KYCNumber'].astype(str).str.len() == 12"
+
+- rule_id: dq_null_values_check
+  description: "Column 'Name' should not be null"
+  check: "df['Name'].notnull()"
+
+- rule_id: dq_incorrect_date
+  description: "Replace '1900-01-01' with NULL"
+  check: "df['Date'] != '1900-01-01'"
