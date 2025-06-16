@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import yaml
 
-def load_rules(path="sample_rules.yaml"):
+def load_rules(path="sample_data/sample_rules.yaml"):
     with open(path, "r") as file:
         return yaml.safe_load(file)
 
@@ -33,7 +33,7 @@ def apply_rules(df, rules):
     return pd.DataFrame(results)
 
 st.title("🧹 Data Quality Check System")
-df = pd.read_csv("sample_data.csv")
+df = pd.read_csv("sample_data/sample_data.csv")
 rules = load_rules()
 result = apply_rules(df, rules)
 st.dataframe(result)
