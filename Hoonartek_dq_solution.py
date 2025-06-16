@@ -11,15 +11,14 @@ from rich.table import Table
 from datetime import datetime
 import json
 import psycopg2
-
+import streamlit as st
 console = Console()
 logger = logging.getLogger("dq_null_values_check")
 
+
+
 def check_dq_status():
-    db_json_path = "config/db_sources/db.json"
-    print(f"Checking DQ status using DB config: {Path(db_json_path).resolve()}")
-    with open(db_json_path, "r") as f:
-        db_info = json.load(f)[0]
+    db_info = st.secrets["database"]
 
     conn = psycopg2.connect(
         dbname=db_info['database'],
@@ -45,11 +44,10 @@ def check_dq_status():
         console.print("[red]No records found in dq_rule_config table.[/red]")
     return None
 
+
+
 def update_dq_status(dq_id):
-    db_json_path = "config/db_sources/db.json"
-    print(f"Updating DQ status to Completed using DB config: {Path(db_json_path).resolve()}")
-    with open(db_json_path, "r") as f:
-        db_info = json.load(f)[0]
+    db_info = st.secrets["database"]
 
     conn = psycopg2.connect(
         dbname=db_info['database'],
@@ -59,7 +57,6 @@ def update_dq_status(dq_id):
         port=db_info['port']
     )
     cur = conn.cursor()
-    # Update status to 'Completed' and set created_at to now()
     cur.execute("""
         UPDATE dq_rule_config 
         SET status = 'Completed', created_at = NOW()
@@ -69,6 +66,7 @@ def update_dq_status(dq_id):
     cur.close()
     conn.close()
     console.print("[green]DQ Status updated to Completed.[/green]")
+
 
 def main():
     start_time = time.time()
